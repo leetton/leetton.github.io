@@ -27,7 +27,7 @@ author:
   bio              : "Assistant Professor"
   location         : "Baltimore, MD"
 #  employer         : "UMBC"
-  employer         : "University of Maryland Baltimore County"
+  # employer         : "University of Maryland Baltimore County"
   uri              : # URL
   email            : "dli(AT)umbc(DOT)edu"
 
