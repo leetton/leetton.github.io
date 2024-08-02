@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor"
   location         : "Baltimore, MD"
-  employer         : "UMBC"
+#  employer         : "UMBC"
+ employer         : "University of Maryland Baltimore County"
   uri              : # URL
   email            : "dli(AT)umbc(DOT)edu"
 
