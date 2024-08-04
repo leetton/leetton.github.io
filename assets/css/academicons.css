@@ -610,13 +610,13 @@ border-radius: .1em;
 .news-table {
   width: 100%;
   border-collapse: collapse;
+  border: none; /* Remove outer border */
 }
 
 .news-table td {
   padding: 15px 0; /* Increase padding for larger font size */
-  vertical-align: top;
+  vertical-align: middle;
   border: none; /* Remove table cell borders */
-  font-size: 1em; /* Make the font size consistent with other text */
 }
 
 .news-date {
