@@ -24,7 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Dong Li"
   pronouns         : # example: "she/her"
-  bio              : "Assistant Professor \n Computer Science and Electrical Engineering"
+  bio: |
+    Assistant Professor
+    Computer Science and Electrical Engineering
+    University of Maryland Baltimore County
   location         : "355 ITE Building, Baltimore, MD"
   # employer         : "CSEEUMBC"
   # employer         : "University of Maryland Baltimore County"
