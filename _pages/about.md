@@ -23,24 +23,23 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 News
 ======
-  <div class="news-section">
-    <h2>News</h2>
-    <div class="news-item">
-      <span class="news-date">02/26/2024</span>
-      <span class="news-content">Our research paper titled <a href="#">"MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling"</a> has been accepted by CVPR 2024.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-date">02/24/2024</span>
-      <span class="news-content">Our research paper titled <a href="#">"SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models"</a> has been accepted by MLSys 2024.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-date">01/22/2024</span>
-      <span class="news-content">Our research paper titled <a href="#">"FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent"</a> and <a href="#">"Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting"</a> have been accepted by ICLR 2024.</span>
-    </div>
-    <div class="news-item">
-      <span class="news-date">10/07/2023</span>
-      <span class="news-content">Our research paper titled <a href="#">"FedNAR: Federated Optimization with Normalized Annealing Regularization"</a> has been accepted by NeurIPS 2023.</span>
-    </div>
+<div class="news-section">
+  <!-- <h2>News</h2> -->
+  <div class="news-item">
+    <span class="news-date">05/2024</span>
+    <span class="news-content">I am invited to serve on the Technical Program Committee for MSN 2024.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">05/2024</span>
+    <span class="news-content">Our research paper titled <a href="#">"SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models"</a> has been accepted by MLSys 2024.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">01/22/2024</span>
+    <span class="news-content">Our research paper titled <a href="#">"FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent"</a> and <a href="#">"Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting"</a> have been accepted by ICLR 2024.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">10/07/2023</span>
+    <span class="news-content">Our research paper titled <a href="#">"FedNAR: Federated Optimization with Normalized Annealing Regularization"</a> has been accepted by NeurIPS 2023.</span>
   </div>
 </div>
 
