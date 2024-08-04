@@ -24,22 +24,33 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 News
 ======
 <div class="news-section">
-  <!-- <h2>News</h2> -->
+  <div class="news-item">
+    <span class="news-date">08/2024</span>
+    <span class="news-content">I will be joining the CSEE Department at UMBC this Fall 2024! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing. I look forward to welcoming you to my course!</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">08/2024</span>
+    <span class="news-content">I am invited to serve as a reviewer for ICPADS 2024.</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">07/2024</span>
+    <span class="news-content">I  am thrilled to announce that I have successfully passed my dissertation defense! My heartfelt thanks to everyone who supported and encouraged me throughout my Ph.D. journey.</span>
+  </div>
   <div class="news-item">
     <span class="news-date">05/2024</span>
     <span class="news-content">I am invited to serve on the Technical Program Committee for MSN 2024.</span>
   </div>
   <div class="news-item">
     <span class="news-date">05/2024</span>
-    <span class="news-content">Our research paper titled <a href="#">"SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models"</a> has been accepted by MLSys 2024.</span>
+    <span class="news-content">I am invited to serve as a reviewer for IMWUT '24.</span>
   </div>
   <div class="news-item">
-    <span class="news-date">01/22/2024</span>
-    <span class="news-content">Our research paper titled <a href="#">"FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent"</a> and <a href="#">"Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting"</a> have been accepted by ICLR 2024.</span>
+    <span class="news-date">05/2024</span>
+    <span class="news-content">I am invited to serve on the Technical Program Committee for MIMSVAI 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</span>
   </div>
   <div class="news-item">
-    <span class="news-date">10/07/2023</span>
-    <span class="news-content">Our research paper titled <a href="#">"FedNAR: Federated Optimization with Normalized Annealing Regularization"</a> has been accepted by NeurIPS 2023.</span>
+    <span class="news-date">04/2023</span>
+    <span class="news-content">I will be joining University of Maryland, Baltimore County as an Assistant Professor in August 2024.</span>
   </div>
 </div>
 
