@@ -10,11 +10,12 @@ redirect_from:
 Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop innovative wireless sensing and IoT systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user
 worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care; 
 <!-- deep learning signal processing hardware design-->
+<!-- hci wireless sensing smart health -->
 </div>
 
 <div class="openings-box">
   <h3>Openings</h3>
-  <p>I am actively looking for self-motivated Ph.D. students, msater sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
+  <p>I am actively looking for self-motivated Ph.D. students, master sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
 </div>
 
 <!-- I am a final-year Ph.D. student of Manning College of Information and Computer Sciences at University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. I also work with Prof. Sunghoon Ivan Lee and Prof. Jeremy Gummeson. I am broadly interested in building novel wireless sensing systems using a variety of sensing modalities, including acoustics, Wi-Fi, mmWave, UWB, and RFID. My research mainly includes localization and tracking, human-computer interaction, and health sensing. -->
@@ -22,19 +23,25 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 News
 ======
-<div class="news-section">
-  <div class="news-item">
-    <!-- <span class="news-category category-service">Service</span> -->
-    <div class="news-content">05/2024 I am invited to serve on the Technical Program Committee for MSN 2024.</div>
-  </div>
-  <div class="news-item">
-    <!-- <span class="news-category category-service">Service</span> -->
-    <div class="news-content">05/2024 I am invited to serve as a reviewer for IMWUT '24.</div>
-  </div>
-  <div class="news-item">
-    <!-- <span class="news-category category-service">Service</span> -->
-    <div class="news-content">05/2024 I am invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</div>
+  <div class="news-section">
+    <h2>News</h2>
+    <div class="news-item">
+      <span class="news-date">02/26/2024</span>
+      <span class="news-content">Our research paper titled <a href="#">"MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling"</a> has been accepted by CVPR 2024.</span>
     </div>
+    <div class="news-item">
+      <span class="news-date">02/24/2024</span>
+      <span class="news-content">Our research paper titled <a href="#">"SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models"</a> has been accepted by MLSys 2024.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">01/22/2024</span>
+      <span class="news-content">Our research paper titled <a href="#">"FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent"</a> and <a href="#">"Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting"</a> have been accepted by ICLR 2024.</span>
+    </div>
+    <div class="news-item">
+      <span class="news-date">10/07/2023</span>
+      <span class="news-content">Our research paper titled <a href="#">"FedNAR: Federated Optimization with Normalized Annealing Regularization"</a> has been accepted by NeurIPS 2023.</span>
+    </div>
+  </div>
 </div>
 
 Selected Publications
