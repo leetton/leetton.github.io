@@ -570,6 +570,10 @@ border-radius: .1em;
   color: #fff;
 }
 
+.justify-text {
+  text-align: justify;
+}
+
 .openings-box {
   background-color: #e0f7fa; /* Light blue background */
   border: 1px solid #4dd0e1; /* Slightly darker blue border */
@@ -587,4 +591,37 @@ border-radius: .1em;
 .openings-box p {
   color: #00796b; /* Dark blue paragraph text */
   margin: 0;
+}
+
+.news-category {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-right: 10px;
+  border-radius: 3px;
+  font-weight: bold;
+  color: white;
+}
+
+.category-publication {
+  background-color: #4caf50; /* Green */
+}
+
+.category-service {
+  background-color: #9e9e9e; /* Grey */
+}
+
+.category-activity {
+  background-color: #9c27b0; /* Purple */
+}
+
+.category-award {
+  background-color: #f44336; /* Red */
+}
+
+.category-event {
+  background-color: #3f51b5; /* Blue */
+}
+
+.news-item {
+  margin-bottom: 10px;
 }
