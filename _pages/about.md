@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <div class="openings-box">
+<div class="openings-box">
   <h3>Openings</h3>
   <p>I am actively looking for self-motivated Ph.D. students, msater sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
-</div> -->
+</div>
 
 <div class="justify-text">
 Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop innovative wireless sensing and IoT systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user

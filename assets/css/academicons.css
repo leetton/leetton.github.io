@@ -569,6 +569,22 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
-.justify-text {
-  text-align: justify;
+
+
+.openings-box {
+  background-color: #fff9c4;
+  border: 1px solid #d4b867;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.openings-box h3 {
+  color: #d4b867;
+  margin: 0;
+}
+
+.openings-box p {
+  color: #d4b867;
+  margin: 0;
 }
