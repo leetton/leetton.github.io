@@ -31,6 +31,10 @@ News
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
+      <td class="news-content">Our paper is conditionally accepted at MobiHoc '24.</td>
+    </tr>
+    <tr>
+      <td class="news-date">08/2024</td>
       <td class="news-content">I am invited to serve as a reviewer for ICPADS 2024.</td>
     </tr>
     <tr>
