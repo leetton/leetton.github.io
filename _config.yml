@@ -6,6 +6,9 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+sass:
+  style: compressed
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Dong's Homepage"
@@ -24,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Dong Li"
   pronouns         : # example: "she/her"
-  bio: "Assistant Professor<br>Computer Science and Electrical Engineering<br>University of Maryland Baltimore County"
+  bio: "Assistant Professor<br>CSEE Department<br>UMBC"
   location         : "355 ITE Building, Baltimore, MD"
   # employer         : "CSEEUMBC"
   # employer         : "University of Maryland Baltimore County"
