@@ -23,32 +23,50 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 News
 ======
-<div class="news-section">
-  <div class="news-item">
-    <span class="news-date">08/2024</span>
-    <span class="news-content"><a>I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</a></span>
+  <div class="news-section">
+    <div class="news-item">
+      <div class="news-category-date">
+        <span class="news-category category-activity">Activity</span>
+        <span class="news-date">08/2024</span>
+      </div>
+      <div class="news-content">I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</div>
+    </div>
+    <div class="news-item">
+      <div class="news-category-date">
+        <span class="news-category category-service">Service</span>
+        <span class="news-date">08/2024</span>
+      </div>
+      <div class="news-content">I am invited to serve as a reviewer for ICPADS 2024.</div>
+    </div>
+    <div class="news-item">
+      <div class="news-category-date">
+        <span class="news-category category-award">Award</span>
+        <span class="news-date">07/2024</span>
+      </div>
+      <div class="news-content">I am thrilled to announce that I have successfully passed my dissertation defense! My heartfelt thanks to everyone who supported and encouraged me throughout my Ph.D. journey.</div>
+    </div>
+    <div class="news-item">
+      <div class="news-category-date">
+        <span class="news-category category-service">Service</span>
+        <span class="news-date">05/2024</span>
+      </div>
+      <div class="news-content">I am invited to serve on the Technical Program Committee for MSN 2024.</div>
+    </div>
+    <div class="news-item">
+      <div class="news-category-date">
+        <span class="news-category category-service">Service</span>
+        <span class="news-date">05/2024</span>
+      </div>
+      <div class="news-content">I am invited to serve as a reviewer for IMWUT '24.</div>
+    </div>
+    <div class="news-item">
+      <div class="news-category-date">
+        <span class="news-category category-service">Service</span>
+        <span class="news-date">05/2024</span>
+      </div>
+      <div class="news-content">I am invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</div>
+    </div>
   </div>
-  <div class="news-item">
-    <span class="news-date">08/2024</span>
-    <span class="news-content">I am invited to serve as a reviewer for ICPADS 2024.</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">07/2024</span>
-    <span class="news-content">I  am thrilled to announce that I have successfully passed my dissertation defense! My heartfelt thanks to everyone who supported and encouraged me throughout my Ph.D. journey.</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">05/2024</span>
-    <span class="news-content">I am invited to serve on the Technical Program Committee for MSN 2024.</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">05/2024</span>
-    <span class="news-content">I am invited to serve as a reviewer for IMWUT '24.</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">05/2024</span>
-    <span class="news-content">I am invited to serve on the Technical Program Committee for MIMSVAI 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</span>
-  </div>
-</div>
 
 Selected Publications
 ======

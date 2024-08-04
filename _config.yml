@@ -8,6 +8,8 @@
 
 sass:
   style: compressed
+  sass_dir: _sass
+  css_dir: assets/css
 
 # Basic Site Settings
 locale                   : "en-US"
