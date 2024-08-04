@@ -574,22 +574,22 @@ border-radius: .1em;
   text-align: justify;
 }
 
+/* Openings box */
 .openings-box {
-  background-color: #e0f7fa; /* Light blue background */
-  border: 1px solid #4dd0e1; /* Slightly darker blue border */
-  padding: 10px;
-  margin: 10px 0;
-  border-radius: 5px;
-  color: #00796b; /* Dark blue text */
+  background-color: #ffebee; /* Light red background */
+  border: 1px solid #e57373; /* Slightly darker red border */
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 8px;
+  color: #d32f2f; /* Dark red text */
 }
 
 .openings-box h3 {
-  color: #00796b; /* Dark blue header text */
-  margin: 0;
+  color: #d32f2f; /* Dark red header text */
+  margin-bottom: 10px;
 }
 
 .openings-box p {
-  color: #00796b; /* Dark blue paragraph text */
   margin: 0;
 }
 
