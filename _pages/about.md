@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div class="justify-text">
 Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop innovative wireless sensing and IoT systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user
-worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care; ffffffff
+worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care;
 <!-- deep learning signal processing hardware design-->
 <!-- hci wireless sensing smart health -->
 </div>
@@ -31,11 +31,11 @@ News
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
-      <td class="news-content">Our paper is conditionally accepted at MobiHoc '24.</td>
+      <td class="news-content">Our paper is conditionally accepted at MobiHoc `24.</td>
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
-      <td class="news-content">I am invited to serve as a reviewer for ICPADS 2024.</td>
+      <td class="news-content">I am invited to serve as a reviewer for ICPADS `24.</td>
     </tr>
     <tr>
       <td class="news-date">07/2024</td>
@@ -43,11 +43,11 @@ News
     </tr>
     <tr>
       <td class="news-date">05/2024</td>
-      <td class="news-content">I am invited to serve on the Technical Program Committee for MSN 2024.</td>
+      <td class="news-content">I am invited to serve on the Technical Program Committee for MSN `24`.</td>
     </tr>
     <tr>
       <td class="news-date">05/2024</td>
-      <td class="news-content">I am invited to serve as a reviewer for IMWUT '24.</td>
+      <td class="news-content">I am invited to serve as a reviewer for IMWUT `24.</td>
     </tr>
     <tr>
       <td class="news-date">05/2024</td>

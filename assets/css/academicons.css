@@ -599,7 +599,7 @@ border-radius: .1em;
 .news-section {
   margin-top: 5px;
   margin-bottom: 5px;
-  /* font-size: 1em; */
+  font-size: 1em;
   text-align: justify; /* Justify text */
 }
 
