@@ -26,7 +26,7 @@ News
 <div class="news-section">
   <div class="news-item">
     <span class="news-date">08/2024</span>
-    <span class="news-content">I will be joining the CSEE Department at UMBC this Fall 2024! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing. I look forward to welcoming you to my course!</span>
+    <span class="news-content"><a>I will be joining the CSEE Department at UMBC this Fall 2024! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing. I look forward to welcoming you to my course!</a></span>
   </div>
   <div class="news-item">
     <span class="news-date">08/2024</span>
