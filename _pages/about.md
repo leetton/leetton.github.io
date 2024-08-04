@@ -22,17 +22,23 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 News
 ======
-<div class="news-item">
-  <span class="news-category category-service">Service</span> 05/2024 I am invited to serve on the Technical Program Committee for MSN 2024.
-</div>
-<div class="news-item">
-  <span class="news-category category-service">Service</span> 05/2024 I am invited to serve as a reviewer for IMWUT '24.
-</div>
-<div class="news-item">
-  <span class="news-category category-service">Service</span> 05/2024 I am invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).
-</div>
-<div class="news-item">
-  <span class="news-category category-activity">Activity</span> 04/2024 I will be joining University of Maryland, Baltimore County as an Assistant Professor in August 2024.
+<div class="news-section">
+  <div class="news-item">
+    <span class="news-category category-service">Service</span>
+    <div class="news-content">05/2024 I am invited to serve on the Technical Program Committee for MSN 2024.</div>
+  </div>
+  <div class="news-item">
+    <span class="news-category category-service">Service</span>
+    <div class="news-content">05/2024 I am invited to serve as a reviewer for IMWUT '24.</div>
+  </div>
+  <div class="news-item">
+    <span class="news-category category-service">Service</span>
+    <div class="news-content">05/2024 I am invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</div>
+  </div>
+  <div class="news-item">
+    <span class="news-category category-activity">Activity</span>
+    <div class="news-content">04/2024 I will be joining University of Maryland, Baltimore County as an Assistant Professor in August 2024.</div>
+  </div>
 </div>
 
 Selected Publications
