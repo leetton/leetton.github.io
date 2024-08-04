@@ -597,7 +597,7 @@ border-radius: .1em;
 
 /* News section */
 .news-section {
-  margin-top: 15px;
+  margin-top: 5px;
 }
 
 .news-section h2 {
@@ -611,13 +611,13 @@ border-radius: .1em;
   width: 100%;
   border-collapse: collapse;
   border: none; /* Remove outer border */
+  font-size: 2em;
 }
 
 .news-table td {
   padding: 5px 0; /* Increase padding for larger font size */
   vertical-align: middle;
   border: none; /* Remove table cell borders */
-  font-size: 2em;
 }
 
 .news-date {
