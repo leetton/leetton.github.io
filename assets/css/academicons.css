@@ -570,21 +570,21 @@ border-radius: .1em;
   color: #fff;
 }
 
-
 .openings-box {
-  background-color: #fff9c4;
-  border: 1px solid #d4b867;
+  background-color: #e0f7fa; /* Light blue background */
+  border: 1px solid #4dd0e1; /* Slightly darker blue border */
   padding: 10px;
   margin: 10px 0;
   border-radius: 5px;
+  color: #00796b; /* Dark blue text */
 }
 
 .openings-box h3 {
-  color: #d4b867;
+  color: #00796b; /* Dark blue header text */
   margin: 0;
 }
 
 .openings-box p {
-  color: #d4b867;
+  color: #00796b; /* Dark blue paragraph text */
   margin: 0;
 }
