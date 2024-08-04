@@ -16,8 +16,7 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
 worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care; 
 <!-- deep learning signal processing hardware design-->
 
-<h3>Openings</h3>
-<p>I am actively looking for self-motivated Ph.D. students, msater sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
+<p style="color: red;">Openings: I am actively looking for self-motivated Ph.D. students, master sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
 </div>
 
 
