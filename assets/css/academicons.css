@@ -618,7 +618,7 @@ border-radius: .1em;
 
 .news-table td {
   padding: 5px 0; /* Increase padding for larger font size */
-  vertical-align: middle;
+  vertical-align: top;
   border: none; /* Remove table cell borders */
 }
 
