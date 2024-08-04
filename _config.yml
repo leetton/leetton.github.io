@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Dong Li"
   pronouns         : # example: "she/her"
-  bio              : "Assistant Professor"
-  location         : "Baltimore, MD"
-#  employer         : "UMBC"
+  bio              : "Assistant Professor \n Computer Science and Electrical Engineering"
+  location         : "355 ITE Building, Baltimore, MD"
+  # employer         : "CSEEUMBC"
   # employer         : "University of Maryland Baltimore County"
   uri              : # URL
   email            : "dli(AT)umbc(DOT)edu"
