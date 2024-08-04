@@ -6,17 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="openings-box">
-  <h3>Openings</h3>
-  <p>I am actively looking for self-motivated Ph.D. students, msater sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
-</div>
-
 <div class="justify-text">
 Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop innovative wireless sensing and IoT systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user
 worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care; 
 <!-- deep learning signal processing hardware design-->
+</div>
 
-<p style="color: red;">Openings: I am actively looking for self-motivated Ph.D. students, master sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
+<div class="openings-box">
+  <h3>Openings</h3>
+  <p>I am actively looking for self-motivated Ph.D. students, msater sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
 </div>
 
 
@@ -25,7 +23,12 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 News
 ======
-dd 
+ <ul>  
+  <li><b>05/2024</b> I am invited to serve on the Technical Program Committee for MSN 2024.</li>   
+  <li><b>05/2024</b> I am invited to serve as a reviewer for IMWUT '24.</li>
+	 <li><b>05/2024</b> I am invited to serve on the Technical Program Committee for MIMSVAI 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</li>
+   <li><b>04/2024</b> I will be joining University of Maryland, Baltimore County as an Assistant Professor in August 2024.</li>
+</ul>
 
 Getting started
 ======
