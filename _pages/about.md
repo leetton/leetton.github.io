@@ -47,7 +47,7 @@ News
     </tr>
     <tr>
       <td class="news-date">05/2024</td>
-      <td class="news-content">I am invited to serve as a reviewer for IMWUT `24.</td>
+      <td class="news-content">I am invited to serve as a reviewer for IMWUT '24.</td>
     </tr>
     <tr>
       <td class="news-date">05/2024</td>

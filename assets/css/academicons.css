@@ -599,7 +599,6 @@ border-radius: .1em;
 .news-section {
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 1.5em;
   text-align: justify; /* Justify text */
 }
 
@@ -614,6 +613,7 @@ border-radius: .1em;
   width: 100%;
   border-collapse: collapse;
   border: none; /* Remove outer border */
+  font-size: 1.5em;
 }
 
 .news-table td {
