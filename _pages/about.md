@@ -26,7 +26,7 @@ News
 <div class="news-section">
   <div class="news-item">
     <span class="news-date">08/2024</span>
-    <span class="news-content"><a>I will be joining the CSEE Department at UMBC this Fall 2024! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing. I look forward to welcoming you to my course!</a></span>
+    <span class="news-content"><a>I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</a></span>
   </div>
   <div class="news-item">
     <span class="news-date">08/2024</span>
@@ -47,10 +47,6 @@ News
   <div class="news-item">
     <span class="news-date">05/2024</span>
     <span class="news-content">I am invited to serve on the Technical Program Committee for MIMSVAI 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">04/2023</span>
-    <span class="news-content">I will be joining University of Maryland, Baltimore County as an Assistant Professor in August 2024.</span>
   </div>
 </div>
 
