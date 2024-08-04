@@ -579,9 +579,10 @@ border-radius: .1em;
   background-color: #ffebee; /* Light red background */
   border: 1px solid #e57373; /* Slightly darker red border */
   padding: 15px;
-  margin: 20px 0;
+  margin: 0; /* Remove top margin */
   border-radius: 8px;
   color: #d32f2f; /* Dark red text */
+  text-align: justify; /* Justify text */
 }
 
 .openings-box h3 {
