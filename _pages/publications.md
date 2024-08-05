@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 <div class="publications-section">
-  <h2>Selection Publications</h2>
+  <!-- <h2>Selection Publications</h2> -->
   <table class="publications-table">
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiCom</span></td>
