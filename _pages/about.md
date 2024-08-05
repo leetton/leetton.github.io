@@ -113,6 +113,6 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
              <a href="files/IMWUT21_BlinkListener.pdf" class="button-link">PDF</a>
       </td>
     </tr>
-    <a href="/publications/" class="all-publications">All Publications</a>
   </table>
+  <a href="/publications/" class="all-publications">All Publications</a>
 </div>
