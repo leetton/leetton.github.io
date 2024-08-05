@@ -2,10 +2,11 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 <div class="justify-text">
 Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop innovative wireless sensing and IoT systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user
 worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care; ffff
@@ -20,9 +21,8 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 <!-- I am a final-year Ph.D. student of Manning College of Information and Computer Sciences at University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. I also work with Prof. Sunghoon Ivan Lee and Prof. Jeremy Gummeson. I am broadly interested in building novel wireless sensing systems using a variety of sensing modalities, including acoustics, Wi-Fi, mmWave, UWB, and RFID. My research mainly includes localization and tracking, human-computer interaction, and health sensing. -->
 
+# News
 
-News
-======
 <div class="news-section">
   <table class="news-table">
     <tr>
@@ -56,8 +56,8 @@ News
   </table>
 </div>
 
-Selected Publications (<a href='/publications/'>Full List</a>)
-======
+# Selected Publications (<a href='/publications/'>Full List</a>)
+
 <div class="publications-section">
   <table class="publications-table">
     <tr class="publications-item">

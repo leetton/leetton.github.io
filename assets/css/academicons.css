@@ -660,6 +660,8 @@ border-radius: .1em;
   padding: 5px 0; /* Increase padding for larger font size */
   vertical-align: top;
   border: none; /* Remove table cell borders */
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .publications-date {
