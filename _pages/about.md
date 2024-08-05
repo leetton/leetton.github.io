@@ -43,6 +43,10 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
       <td class="news-content">I am thrilled to announce that I have successfully passed my dissertation defense! My heartfelt thanks to everyone who supported and encouraged me throughout my Ph.D. journey.</td>
     </tr>
     <tr>
+      <td class="news-date">07/2024</td>
+      <td class="news-content">I am invited to serve as a reviewer for ToN '24.</td>
+    </tr>
+    <tr>
       <td class="news-date">05/2024</td>
       <td class="news-content">I am invited to serve on the Technical Program Committee for MSN '24.</td>
     </tr>
