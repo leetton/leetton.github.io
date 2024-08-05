@@ -664,7 +664,7 @@ border-radius: .1em;
 
 .publications-date {
   font-weight: bold;
-  width: 20%;
+  width: 15%;
   display: flex;
   align-items: center;
   font-size: 0.8em; 
@@ -676,11 +676,11 @@ border-radius: .1em;
   padding: 3px 8px;
   border-radius: 3px;
   font-size: 1em;
-  margin-right: 8px;
+  margin-right: 2px;
 }
 
 .publications-content {
-  width: 80%;
+  width: 85%;
   /* margin: 0px 0px 0px 0px; */
 }
 

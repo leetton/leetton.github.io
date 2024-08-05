@@ -93,7 +93,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT/UbiComp</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <p><b>Enabling Contact-free Acoustic Sensing under Device Motion</b><br />
            Jialin Liu*, <u>Dong Li</u>*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution) <br />
@@ -103,7 +103,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT/UbiComp</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <p><b>LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</b><br />
            <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
@@ -133,7 +133,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT/UbiComp</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <p><b>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</b><br />
            Jialin Liu, <u>Dong Li</u>, Lei Wang, Jie Xiong <br />
