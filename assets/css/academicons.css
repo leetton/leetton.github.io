@@ -732,7 +732,7 @@ border-radius: .1em;
 }
 
 .students-section {
-  text-align: center;
+  /* text-align: center; */
   margin-top: 20px;
 }
 
@@ -744,8 +744,8 @@ border-radius: .1em;
 
 .students-grid {
   display: flex;
-  /* justify-content: center; Center the student cards horizontally */
-  /* align-items: center; Center the student cards vertically */
+  justify-content: center; /*Center the student cards horizontally */
+  align-items: center; /* Center the student cards vertically */
 }
 
 .student-card {
