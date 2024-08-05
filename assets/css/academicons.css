@@ -631,7 +631,6 @@ border-radius: .1em;
   width: 85%;
 }
 
-/* Remove table border */
 .news-table, .news-table tr, .news-table td {
   border: none;
 }
@@ -682,6 +681,7 @@ border-radius: .1em;
 
 .publications-content {
   width: 85%;
+  margin: 0px 0px 0px 0px;
 }
 
 /* Remove table border */
