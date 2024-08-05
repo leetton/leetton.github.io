@@ -695,8 +695,8 @@ border-radius: .1em;
 .button-link {
   text-decoration: none;
   display: inline-block;
-  padding: 2px 2px;
-  margin: 2px 2px 0px 0px; /* Adjust margin for better spacing */
+  padding: 0px 0px;
+  margin: 0px 0px 0px 0px; /* Adjust margin for better spacing */
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
   color: #000; /* Text color */
