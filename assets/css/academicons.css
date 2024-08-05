@@ -690,12 +690,12 @@ border-radius: .1em;
 
 /* Button style for links */
 .button-link {
+  text-decoration: none;
   display: inline-block;
   padding: 5px 10px;
-  margin: 1px;
+  margin: 0px;
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
-  text-decoration: none;
   color: #000; /* Text color */
   font-family: Arial, sans-serif;
   font-size: 14px;
