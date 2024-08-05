@@ -21,7 +21,7 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 
 <!-- I am a final-year Ph.D. student of Manning College of Information and Computer Sciences at University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. I also work with Prof. Sunghoon Ivan Lee and Prof. Jeremy Gummeson. I am broadly interested in building novel wireless sensing systems using a variety of sensing modalities, including acoustics, Wi-Fi, mmWave, UWB, and RFID. My research mainly includes localization and tracking, human-computer interaction, and health sensing. -->
 
-# News
+<!-- # News -->
 
 <div class="news-section">
   <h2>News</h2> 
@@ -36,7 +36,7 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
-      <td class="news-content">I am invited to serve as a reviewer for ICPADS '24.</td>
+      <td class="news-content">I am invited to serve on the Technical Program Committee for ICPADS '24.</td>
     </tr>
     <tr>
       <td class="news-date">07/2024</td>
@@ -57,7 +57,7 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
   </table>
 </div>
 
-# Selected Publications (<a href='/publications/'>Full List</a>)
+<!-- # Selected Publications (<a href='/publications/'>Full List</a>) -->
 
 <div class="publications-section">
   <h2>Selection Publications</h2>
