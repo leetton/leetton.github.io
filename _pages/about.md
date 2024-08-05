@@ -109,7 +109,17 @@ Selected Publications (<a href='/publications/'>Full List</a>)
         </p>
       </td>
     </tr>
-        <tr class="publications-item">
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">IPSN</span></td>
+      <td class="publications-content">
+        <p><b>LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</b><br />
+           <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
+           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Atlanta, USA and Cambridge, UK, September 2022</i> <br />
+             <a href="files/IMWUT21_BlinkListener.pdf" class="button-link">PDF</a>
+        </p>
+      </td>
+    </tr>
+    <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">HotNets</span></td>
       <td class="publications-content">
         <p><b>Boosting the Sensing Granularity of Acoustic Signals by Exploiting Hardware Non-linearity</b><br />
@@ -119,6 +129,37 @@ Selected Publications (<a href='/publications/'>Full List</a>)
         </p>
       </td>
     </tr>
-    
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">IPSN</span></td>
+      <td class="publications-content">
+        <p><b>MOM: Microphone based 3D Orientation Measurement</b><br />
+           Zhihui Gao, Ang Li, <u>Dong Li</u>, Jialin Liu, Jie Xiong, Yu Wang, Bing Li, Yiran Chen <br />
+           <i>International Conference on Information Processing in Sensor Networks, MILAN, ITALY (VIRTUAL), May 2022</i> <br />
+             <a href="files/IPSN2022_MOM.pdf" class="button-link">PDF</a>
+        </p>
+      </td>
+    </tr>
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">IMWUT</span></td>
+      <td class="publications-content">
+        <p><b>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</b><br />
+           Jialin Liu, <u>Dong Li</u>, Lei Wang, Jie Xiong <br />
+           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, All Over the World, September 2021</i> <br />
+            <a href="files/IMWUT21_BlinkListener.pdf" class="button-link">PDF</a>
+            <a href="https://www.youtube.com/watch?v=H-QOrw1m2Lw&t=204s" class="button-link">Presentation</a>
+        </p>
+      </td>
+    </tr>
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">SenSys</span></td>
+      <td class="publications-content">
+        <p><b>FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</b><br />
+           <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
+           <i>ACM Conference on Embedded Networked Sensor Systems, Yokohama, Japan, November 2020</i> <br />
+            <a href="files/SenSys20_FM-Track.pdf" class="button-link">PDF</a>
+            <a href="https://www.youtube.com/watch?v=H-QOrw1m2Lw&t=204s" class="button-link">Presentation</a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>

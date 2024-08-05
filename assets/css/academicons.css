@@ -638,7 +638,7 @@ border-radius: .1em;
 
 /* Publications section */
 .publications-section {
-  margin-top: 20px;
+  margin-top: 5px;
   margin-bottom: 5px;
   text-align: justify; /* Justify text */
 }
@@ -668,6 +668,7 @@ border-radius: .1em;
   width: 15%;
   display: flex;
   align-items: center;
+  font-size: 0.8em; 
 }
 
 .publications-label {
@@ -675,7 +676,7 @@ border-radius: .1em;
   color: white;
   padding: 3px 8px;
   border-radius: 3px;
-  font-size: 1em;
+  font-size: 0.8em;
   margin-right: 2px;
 }
 
