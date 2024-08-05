@@ -13,10 +13,10 @@ main:
     url: /teaching/    
 
   - title: "Service"
-    url: /teaching/   
+    url: /service/   
 
   - title: "Team"
-    url: /teaching/
+    url: /team/
 
   # - title: "FAQ"
 
@@ -26,8 +26,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/Dong_Li_CV_faculty.pdf/
     
   # - title: "Guide"
   #   url: /markdown/
