@@ -671,9 +671,9 @@ border-radius: .1em;
 }
 
 .publications-label {
-  background-color: #42a5f5; /* New blue color */
+  background-color: #0d70c1; /* New blue color */
   color: white;
-  padding: 3px 8px;
+  padding: 3px 16px;
   border-radius: 3px;
   font-size: 1em;
   margin-right: 2px;
