@@ -692,7 +692,7 @@ border-radius: .1em;
 .button-link {
   display: inline-block;
   padding: 5px 10px;
-  margin: 2px;
+  margin: 1px;
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
   text-decoration: none;
@@ -706,4 +706,9 @@ border-radius: .1em;
 .button-link:hover {
   background-color: #000; /* Background color on hover */
   color: #fff; /* Text color on hover */
+}
+
+/* Links section styling */
+.links {
+  margin-top: 2px; /* Reduced margin between text and buttons */
 }
