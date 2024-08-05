@@ -673,7 +673,7 @@ border-radius: .1em;
 }
 
 .publications-label {
-  background-color: #595a5a; /* New blue color */
+  background-color: #929595; /* New blue color */
   color: white;
   padding: 3px 5px;
   border-radius: 3px;
@@ -694,7 +694,7 @@ border-radius: .1em;
 .button-link {
   text-decoration: none;
   display: inline-block;
-  padding: 5px 5px;
+  padding: 8px 8px;
   margin: 0px 0px 0px 0px; /* Adjust margin for better spacing */
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
@@ -729,4 +729,56 @@ border-radius: .1em;
 .all-publications:hover {
   background-color: #003f7f; /* Darker blue on hover */
   color: #fff;
+}
+
+.students-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.students-section h2 {
+  color: #333333;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.students-grid {
+  display: flex;
+  justify-content: center; /* Center the student cards horizontally */
+  align-items: center; /* Center the student cards vertically */
+}
+
+.student-card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 10px;
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  justify-content: center; /* Center content vertically */
+}
+
+.student-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.student-info {
+  padding: 10px;
+  justify-content: center; /* Center text vertically */
+}
+
+.student-info strong {
+  color: #0056b3;
+  font-size: 1.1em;
+}
+
+.student-info p {
+  color: #666666;
+  margin: 5px 0 0 0;
+  font-size: 0.9em;
 }
