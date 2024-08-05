@@ -73,26 +73,19 @@ Selected Publications (<a href='/publications/'>Full List</a>)
         <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
            Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
            <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i> <br />
-           <!-- <div class="links"> -->
              <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
              <a href="https://powerphone.github.io" class="button-link">Webpage</a>
              <a href="https://github.com/PowerPhone" class="button-link">Code</a>
-           <!-- </div> -->
         </p>
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">MobiCom</span></td>
+      <td class="publications-date"><span class="publications-label">SenSys</span></td>
       <td class="publications-content">
-        <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
-           Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
-           <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i> <br />
-           <!-- <div class="links"> -->
-             <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
-             <a href="https://powerphone.github.io" class="button-link">Webpage</a>
-             <a href="https://github.com/PowerPhone" class="button-link">Code</a>
-           <!-- </div> -->
-        </p>
+        <p><b>Room-scale Hand Gesture Recognition Using Smart Speakers</b><br />
+           <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
+           <i>ACM Conference on Embedded Networked Sensor Systems, Boston, USA, November 2022</i> <br />
+             <a href="files/SenSys2022_SpeakerGesture.pdf" class="button-link">PDF</a>
       </td>
     </tr>
   </table>
