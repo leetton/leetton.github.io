@@ -12,6 +12,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Service"
+    url: /teaching/   
+
+  - title: "Team"
+    url: /teaching/
+
+  # - title: "FAQ"
+
   # - title: "Portfolio"
     # url: /portfolio/
         
