@@ -9,23 +9,21 @@ author_profile: true
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiCom</span></td>
       <td class="publications-content">
-        <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
+        <b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
            Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
            <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i> <br />
              <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
              <a href="https://powerphone.github.io" class="button-link">Webpage</a>
              <a href="https://github.com/PowerPhone" class="button-link">Code</a>
-        </p>
       </td>
     </tr>
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">SenSys</span></td>
       <td class="publications-content">
-        <p><b>Room-scale Hand Gesture Recognition Using Smart Speakers</b><br />
+        <b>Room-scale Hand Gesture Recognition Using Smart Speakers</b><br />
            <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
            <i>ACM Conference on Embedded Networked Sensor Systems, Boston, USA, November 2022</i> <br />
              <a href="files/SenSys2022_SpeakerGesture.pdf" class="button-link">PDF</a>
-        </p>
       </td>
     </tr>
     <tr class="publications-item">
@@ -39,7 +37,7 @@ author_profile: true
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <p><b>Enabling Contact-free Acoustic Sensing under Device Motion</b><br />
            Jialin Liu*, <u>Dong Li</u>*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution) <br />
@@ -49,7 +47,7 @@ author_profile: true
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IPSN</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <p><b>LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</b><br />
            <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
@@ -79,7 +77,7 @@ author_profile: true
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <p><b>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</b><br />
            Jialin Liu, <u>Dong Li</u>, Lei Wang, Jie Xiong <br />
