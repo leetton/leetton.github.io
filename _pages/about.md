@@ -114,5 +114,7 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
       </td>
     </tr>
   </table>
-  <a href="/publications/" class="all-publications">All Publications</a>
+  <div style="text-align: center; margin-top: 20px;">
+      <a href="path/to/all-publications" class="all-publications">All Publications</a>
+  </div>
 </div>

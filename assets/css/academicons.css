@@ -709,3 +709,24 @@ border-radius: .1em;
   background-color: #000; /* Background color on hover */
   color: #fff; /* Text color on hover */
 }
+
+/* All Publications button */
+.all-publications {
+  display: inline-block;
+  padding: 12px 24px; /* Larger padding for a more prominent button */
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #0056b3; /* Vibrant blue color */
+  color: white;
+  font-size: 18px; /* Larger font size */
+  font-weight: bold; /* Bold font */
+  text-decoration: none;
+  text-align: center;
+  transition: background-color 0.3s, color 0.3s; /* Transition for hover effect */
+}
+
+.all-publications:hover {
+  background-color: #003f7f; /* Darker blue on hover */
+  color: #fff;
+}
