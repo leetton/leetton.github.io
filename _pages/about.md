@@ -56,19 +56,19 @@ News
   </table>
 </div>
 
-Selected Publications <a href='/publications/'>(Full List)</a>
+Selected Publications (<a href='/publications/'>Full List</a>)
 ======
-<p>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones<br />
+<!-- <p>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones<br />
    Shirui Cao*, <b>Dong Li</b>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
    ACM MobiCom 2023 <br />
    <a href='files/Mobicom23_PowerPhone.pdf'>[pdf]</a><a href='https://powerphone.github.io'>[webpage]</a><a href='https://github.com/PowerPhone'>[code]</a>
-</p>
+</p> -->
 
 <!-- Publications Section -->
 <div class="publications-section">
   <table class="publications-table">
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">Mobicom '24</span></td>
+      <td class="publications-date"><span class="publications-label">MobiCom '24</span></td>
       <td class="publications-content">
         <p>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones<br />
            Shirui Cao*, <b>Dong Li</b>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
@@ -76,7 +76,6 @@ Selected Publications <a href='/publications/'>(Full List)</a>
            <a href='files/Mobicom23_PowerPhone.pdf'>[pdf]</a><a href='https://powerphone.github.io'>[webpage]</a><a href='https://github.com/PowerPhone'>[code]</a>
         </p>
       </td>
-    </tr>
     </tr>
   </table>
 </div>
