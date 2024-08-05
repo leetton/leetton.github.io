@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div class="justify-text">
 Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop innovative wireless sensing and IoT systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user
-worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care; fff
+worldwide. Research direction: wireless sensing, wearable computing, mobile health, multi-model computing, point-of-care;
 <!-- deep learning signal processing hardware design-->
 <!-- hci wireless sensing smart health -->
 </div>
@@ -72,7 +72,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       <td class="publications-content">
         <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
            Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
-           ACM MobiCom 2023 <br />
+           <i>ACM International Conference on Mobile Computing and Networking (MobiCom'23), Madrid, Spain, October 2023<i>  <br />
            <div class="links">
              <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
              <a href="https://powerphone.github.io" class="button-link">Webpage</a>
