@@ -683,7 +683,7 @@ border-radius: .1em;
 
 .publications-content {
   width: 85%;
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }
 
 /* Remove table border */
@@ -695,7 +695,7 @@ border-radius: .1em;
 .button-link {
   text-decoration: none;
   display: inline-block;
-  padding: 5px 5px;
+  padding: 2px 2px;
   margin: 2px 2px 0px 0px; /* Adjust margin for better spacing */
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
