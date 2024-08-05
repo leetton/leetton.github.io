@@ -74,7 +74,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
            Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
            <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i>
            <div class="links">
-             <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
+             <a href="files/Mobicom23_PowerPhone.pdf" class="button-link" text-decoration="none">PDF</a>
              <a href="https://powerphone.github.io" class="button-link">Webpage</a>
              <a href="https://github.com/PowerPhone" class="button-link">Code</a>
            </div>
