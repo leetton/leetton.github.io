@@ -693,7 +693,7 @@ border-radius: .1em;
   text-decoration: none;
   display: inline-block;
   padding: 5px 10px;
-  margin: 0px;
+  margin: 0px 5px 0px 0px; /* Adjust margin for better spacing */
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
   color: #000; /* Text color */
@@ -710,5 +710,5 @@ border-radius: .1em;
 
 /* Links section styling */
 .links {
-  margin-top: 0px; /* Reduced margin between text and buttons */
+  margin-top: 5px; /* Reduced margin between text and buttons */
 }
