@@ -597,8 +597,8 @@ border-radius: .1em;
 
 /* News section */
 .news-section {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: justify; /* Justify text */
 }
 
@@ -637,8 +637,8 @@ border-radius: .1em;
 
 /* Publications section */
 .publications-section {
-  margin-top: 50px;
-  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: justify; /* Justify text */
 }
 
@@ -661,7 +661,7 @@ border-radius: .1em;
   vertical-align: top;
   border: none; /* Remove table cell borders */
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 50px;
 }
 
 .publications-date {
@@ -678,7 +678,7 @@ border-radius: .1em;
   padding: 3px 5px;
   border-radius: 3px;
   font-size: 1em;
-  margin-right: 0px;
+  margin-right: 2px;
 }
 
 .publications-content {
@@ -695,8 +695,8 @@ border-radius: .1em;
 .button-link {
   text-decoration: none;
   display: inline-block;
-  padding: 5px 10px;
-  margin: 5px 5px 0px 0px; /* Adjust margin for better spacing */
+  padding: 5px 5px;
+  margin: 2px 2px 0px 0px; /* Adjust margin for better spacing */
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
   color: #000; /* Text color */

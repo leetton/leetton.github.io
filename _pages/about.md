@@ -24,6 +24,7 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 # News
 
 <div class="news-section">
+  <h2>News</h2> 
   <table class="news-table">
     <tr>
       <td class="news-date">08/2024</td>
@@ -59,6 +60,7 @@ worldwide. Research direction: wireless sensing, wearable computing, mobile heal
 # Selected Publications (<a href='/publications/'>Full List</a>)
 
 <div class="publications-section">
+  <h2>Selection Publications</h2>
   <table class="publications-table">
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiCom</span></td>
