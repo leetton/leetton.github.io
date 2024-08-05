@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <div class="publications-section">
   <table class="publications-table">
     <tr class="publications-item">

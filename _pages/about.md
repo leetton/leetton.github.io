@@ -58,13 +58,6 @@ News
 
 Selected Publications (<a href='/publications/'>Full List</a>)
 ======
-<!-- <p>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones<br />
-   Shirui Cao*, <b>Dong Li</b>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
-   ACM MobiCom 2023 <br />
-   <a href='files/Mobicom23_PowerPhone.pdf'>[pdf]</a><a href='https://powerphone.github.io'>[webpage]</a><a href='https://github.com/PowerPhone'>[code]</a>
-</p> -->
-
-<!-- Publications Section -->
 <div class="publications-section">
   <table class="publications-table">
     <tr class="publications-item">
@@ -100,7 +93,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       </td>
     </tr>
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT</span></td>
+      <td class="publications-date"><span class="publications-label">IMWUT/UbiComp</span></td>
       <td class="publications-content">
         <p><b>Enabling Contact-free Acoustic Sensing under Device Motion</b><br />
            Jialin Liu*, <u>Dong Li</u>*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution) <br />

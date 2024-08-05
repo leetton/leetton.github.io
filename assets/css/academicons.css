@@ -637,8 +637,8 @@ border-radius: .1em;
 
 /* Publications section */
 .publications-section {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   text-align: justify; /* Justify text */
 }
 
@@ -681,7 +681,7 @@ border-radius: .1em;
 
 .publications-content {
   width: 85%;
-  margin: 0px 0px 0px 0px;
+  /* margin: 0px 0px 0px 0px; */
 }
 
 /* Remove table border */
