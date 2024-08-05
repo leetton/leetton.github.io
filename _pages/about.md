@@ -84,7 +84,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       <td class="publications-content">
         <p><b>Room-scale Hand Gesture Recognition Using Smart Speakers</b><br />
            <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
-           <i>ACM Conference on Embedded Networked Sensor Systems, Boston, United States, November 2022</i> <br />
+           <i>ACM Conference on Embedded Networked Sensor Systems, Boston, USA, November 2022</i> <br />
              <a href="files/SenSys2022_SpeakerGesture.pdf" class="button-link">PDF</a>
         </p>
       </td>
@@ -95,9 +95,30 @@ Selected Publications (<a href='/publications/'>Full List</a>)
         <p><b>Experience: Practical Problems for Acoustic Sensing</b><br />
            <u>Dong Li</u>*, Shirui Cao*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
            <i>ACM International Conference on Mobile Computing and Networking, Sydney, Australia, November 2022</i> <br />
-             <a href="files/SenSys2022_SpeakerGesture.pdf" class="button-link">PDF</a>
+             <a href="files/MobiCom22_Experience.pdf" class="button-link">PDF</a>
         </p>
       </td>
     </tr>
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">IMWUT</span></td>
+      <td class="publications-content">
+        <p><b>Enabling Contact-free Acoustic Sensing under Device Motion</b><br />
+           Jialin Liu*, <u>Dong Li</u>*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution) <br />
+           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Atlanta, USA and Cambridge, UK, September 2022</i> <br />
+             <a href="files/MobiCom22_Experience.pdf" class="button-link">PDF</a>
+        </p>
+      </td>
+    </tr>
+        <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">HotNets</span></td>
+      <td class="publications-content">
+        <p><b>Boosting the Sensing Granularity of Acoustic Signals by Exploiting Hardware Non-linearity</b><br />
+           Xiangru Chen*, <u>Dong Li</u>*, Yiran Chen, Jie Xiong (*Equal contribution) <br />
+           <i>ACM Workshop on Hot Topics in Networks, Austin, USA, November 2022</i> <br />
+             <a href="files/HotNets22_Boost.pdf" class="button-link">PDF</a>
+        </p>
+      </td>
+    </tr>
+    
   </table>
 </div>
