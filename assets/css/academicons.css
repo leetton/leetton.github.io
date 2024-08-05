@@ -737,15 +737,15 @@ border-radius: .1em;
 }
 
 .students-section h2 {
-  color: #333333;
-  font-size: 1.5em;
-  margin-bottom: 20px;
+  color: #535050;
+  font-size: 1em;
+  margin-bottom: 210px;
   text-align: left;
 }
 
 .students-grid {
   display: flex;
-  justify-content: center; /*Center the student cards horizontally */
+  justify-content: left; /*Center the student cards horizontally */
   align-items: center; /*Center the student cards vertically */
 }
 
