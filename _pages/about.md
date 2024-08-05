@@ -72,7 +72,7 @@ Selected Publications (<a href='/publications/'>Full List</a>)
       <td class="publications-content">
         <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
            Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
-           <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i>  <br />
+           <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i>
            <div class="links">
              <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
              <a href="https://powerphone.github.io" class="button-link">Webpage</a>
