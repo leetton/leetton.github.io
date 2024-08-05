@@ -673,7 +673,7 @@ border-radius: .1em;
 }
 
 .publications-label {
-  background-color: #0d70c1; /* New blue color */
+  background-color: #595a5a; /* New blue color */
   color: white;
   padding: 3px 5px;
   border-radius: 3px;
@@ -694,7 +694,7 @@ border-radius: .1em;
 .button-link {
   text-decoration: none;
   display: inline-block;
-  padding: 3px 3px;
+  padding: 5px 5px;
   margin: 0px 0px 0px 0px; /* Adjust margin for better spacing */
   border: 1px solid #000; /* Border color */
   border-radius: 5px;
