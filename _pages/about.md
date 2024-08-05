@@ -80,6 +80,8 @@ Selected Publications (<a href='/publications/'>Full List</a>)
            <!-- </div> -->
         </p>
       </td>
+    </tr>
+    <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiCom</span></td>
       <td class="publications-content">
         <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
