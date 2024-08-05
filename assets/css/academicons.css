@@ -665,13 +665,13 @@ border-radius: .1em;
 
 .publications-date {
   font-weight: bold;
-  width: 25%;
+  width: 20%;
   display: flex;
   align-items: center;
 }
 
 .publications-label {
-  background-color: #4186d1;
+  background-color: #42a5f5; /* New blue color */
   color: white;
   padding: 3px 8px;
   border-radius: 3px;
@@ -680,7 +680,7 @@ border-radius: .1em;
 }
 
 .publications-content {
-  width: 75%;
+  width: 80%;
 }
 
 /* Remove table border */
