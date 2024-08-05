@@ -673,7 +673,7 @@ border-radius: .1em;
 .publications-label {
   background-color: #0d70c1; /* New blue color */
   color: white;
-  padding: 3px 16px;
+  padding: 3px 8px;
   border-radius: 3px;
   font-size: 1em;
   margin-right: 2px;
@@ -686,4 +686,24 @@ border-radius: .1em;
 /* Remove table border */
 .publications-table, .publications-table tr, .publications-table td {
   border: none;
+}
+
+/* Button style for links */
+.button-link {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 5px;
+  border: 1px solid #000; /* Border color */
+  border-radius: 5px;
+  text-decoration: none;
+  color: #000; /* Text color */
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background-color: #fff; /* Background color */
+  transition: background-color 0.3s, color 0.3s; /* Transition for hover effect */
+}
+
+.button-link:hover {
+  background-color: #000; /* Background color on hover */
+  color: #fff; /* Text color on hover */
 }

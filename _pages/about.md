@@ -68,12 +68,16 @@ Selected Publications (<a href='/publications/'>Full List</a>)
 <div class="publications-section">
   <table class="publications-table">
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">MobiCom '24</span></td>
+      <td class="publications-date"><span class="publications-label">MobiCom</span></td>
       <td class="publications-content">
         <p><b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
            Shirui Cao*, <u>Dong Li</u>*, Sunghoon Ivan Lee, Jie Xiong (*Equal contribution) <br />
            ACM MobiCom 2023 <br />
-           <a href='files/Mobicom23_PowerPhone.pdf'>[pdf]</a><a href='https://powerphone.github.io'>[webpage]</a><a href='https://github.com/PowerPhone'>[code]</a>
+           <div class="links">
+             <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
+             <a href="https://powerphone.github.io" class="button-link">Webpage</a>
+             <a href="https://github.com/PowerPhone" class="button-link">Code</a>
+           </div>
         </p>
       </td>
     </tr>
