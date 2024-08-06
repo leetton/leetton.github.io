@@ -731,6 +731,8 @@ border-radius: .1em;
   color: #fff;
 }
 
+
+/* Student */
 .students-section {
   text-align: center;
   margin-top: 20px;
@@ -746,7 +748,7 @@ border-radius: .1em;
 .students-grid {
   display: flex;
   justify-content: left; /*Center the student cards horizontally */
-  align-items: center; /*Center the student cards vertically */
+  /* align-items: center; Center the student cards vertically */
 }
 
 .student-card {
@@ -755,18 +757,23 @@ border-radius: .1em;
   border-radius: 8px;
   overflow: hidden;
   margin: 10px;
-  width: 200px;
+  width: 250px;
   height: 300px;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   justify-content: center; /* Center content vertically */
 }
 
-.student-card img {
-  width: 200px;
-  height: 200px;
-  /* height: auto; */
-  display: block;
+.student-card-image {
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+}
+
+.student-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure image covers the entire area */
 }
 
 .student-info {
