@@ -778,11 +778,11 @@ border-radius: .1em;
 
 .student-info strong {
   color: #0056b3;
-  font-size: 1em;
+  font-size: 0.8em;
 }
 
 .student-info p {
   color: #666666;
   margin: 5px 0 0 0;
-  font-size: 0.8em;
+  font-size: 0.6em;
 }
