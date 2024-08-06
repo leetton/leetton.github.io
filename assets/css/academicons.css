@@ -791,4 +791,5 @@ border-radius: .1em;
   width: 300px;  /* Set the desired width */
   height: 300px; /* Set the desired height */
   overflow: hidden;
+  display: none;
 }
