@@ -755,16 +755,17 @@ border-radius: .1em;
   border-radius: 8px;
   overflow: hidden;
   margin: 10px;
-  width: 300px;
-  height: 400px;
+  width: 200px;
+  height: 300px;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   justify-content: center; /* Center content vertically */
 }
 
 .student-card img {
-  width: 100%;
-  height: auto;
+  width: 200px;
+  height: 200px;
+  /* height: auto; */
   display: block;
 }
 
@@ -775,11 +776,11 @@ border-radius: .1em;
 
 .student-info strong {
   color: #0056b3;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
 .student-info p {
   color: #666666;
   margin: 5px 0 0 0;
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
