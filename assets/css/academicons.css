@@ -675,7 +675,7 @@ border-radius: .1em;
 .publications-label {
   background-color: #929595; /* New blue color */
   color: white;
-  padding: 3px 5px;
+  padding: 3px 10px;
   border-radius: 3px;
   font-size: 1em;
   margin-right: 2px;
@@ -757,16 +757,16 @@ border-radius: .1em;
   border-radius: 8px;
   overflow: hidden;
   margin: 10px;
-  width: 250px;
-  height: 300px;
+  width: 150px;
+  height: 200px;
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   justify-content: center; /* Center content vertically */
 }
 
 .student-card img {
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   /* height: auto; */
   display: block;
 }
