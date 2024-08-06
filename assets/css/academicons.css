@@ -786,3 +786,9 @@ border-radius: .1em;
   margin: 5px 0 0 0;
   font-size: 0.6em;
 }
+
+.clustrmap-container {
+  width: 300px;  /* Set the desired width */
+  height: 300px; /* Set the desired height */
+  overflow: hidden;
+}

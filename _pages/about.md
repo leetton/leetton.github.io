@@ -122,5 +122,9 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
 
 <footer>
   <!-- Other footer content -->
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BQR2Dh-biaXeFMPPuiXQ8LDV3CSeqTuW2Wh3HwHG6DE"></script>
+  
 </footer>
+
+<div class="clustrmap-container">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BQR2Dh-biaXeFMPPuiXQ8LDV3CSeqTuW2Wh3HwHG6DE"></script>
+</div>
