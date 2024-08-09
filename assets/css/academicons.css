@@ -788,8 +788,8 @@ border-radius: .1em;
 }
 
 .clustrmap-container {
-  width: 300px;  /* Set the desired width */
-  height: 300px; /* Set the desired height */
-  overflow: hidden;
+  /* width: 300px;  
+  height: 300px;  */
+  /* overflow: hidden; */
   display: none;
 }
