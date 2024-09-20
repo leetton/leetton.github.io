@@ -76,7 +76,7 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
       <td class="publications-content">
         <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />
            Xiaoxuan Liang∗, Zhaolong Wei∗, <u>Dong Li</u>, Jie Xiong, Jeremy Gummeson (*Equal contribution) <br />
-           <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i> <br />
+           <i>ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Athens, Greece, October 2024</i> <br />
              <!-- <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
              <a href="https://powerphone.github.io" class="button-link">Webpage</a>
              <a href="https://github.com/PowerPhone" class="button-link">Code</a> -->
