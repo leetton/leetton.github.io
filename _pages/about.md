@@ -28,12 +28,16 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
   <h2>News</h2> 
   <table class="news-table">
     <tr>
-      <td class="news-date">08/2024</td>
-      <td class="news-content">I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</td>
+      <td class="news-date">09/2024</td>
+      <td class="news-content">I am invited to serve on the Technical Program Committee for PerCom '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">09/2024</td>
+      <td class="news-content">Our paper is accepted at MobiHoc' 24.</td>
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
-      <td class="news-content">Our paper is conditionally accepted at MobiHoc '24.</td>
+      <td class="news-content">I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</td>
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
@@ -67,6 +71,17 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
 <div class="publications-section">
   <h2>Selection Publications</h2>
   <table class="publications-table">
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">MobiHoc</span></td>
+      <td class="publications-content">
+        <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />
+           Xiaoxuan Liang∗, Zhaolong Wei∗, <u>Dong Li</u>, Jie Xiong, Jeremy Gummeson (*Equal contribution) <br />
+           <i>ACM International Conference on Mobile Computing and Networking, Madrid, Spain, October 2023</i> <br />
+             <!-- <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
+             <a href="https://powerphone.github.io" class="button-link">Webpage</a>
+             <a href="https://github.com/PowerPhone" class="button-link">Code</a> -->
+      </td>
+    </tr>
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiCom</span></td>
       <td class="publications-content">
