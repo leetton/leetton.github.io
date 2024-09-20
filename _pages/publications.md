@@ -8,6 +8,17 @@ author_profile: true
   <!-- <h2>Selection Publications</h2> -->
   <table class="publications-table">
     <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">MobiHoc</span></td>
+      <td class="publications-content">
+        <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />
+           Xiaoxuan Liang∗, Zhaolong Wei∗, <u>Dong Li</u>, Jie Xiong, Jeremy Gummeson (*Equal contribution) <br />
+           <i>ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Athens, Greece, October 2024</i> <br />
+             <!-- <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
+             <a href="https://powerphone.github.io" class="button-link">Webpage</a>
+             <a href="https://github.com/PowerPhone" class="button-link">Code</a> -->
+      </td>
+    </tr>
+    <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiCom</span></td>
       <td class="publications-content">
         <b>PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones</b><br />
