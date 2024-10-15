@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="justify-text">
-Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. My research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health.
+Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. My research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health, AI for IoT.
 <!-- Research direction: wireless sensing, wearable computing, mobile health, multi-model computing,  -->
 <!-- point-of-care; -->
 <!-- deep learning signal processing hardware design-->
