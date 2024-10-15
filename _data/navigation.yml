@@ -1,7 +1,10 @@
 # main links links
 main:
-  # - title: "News"
-    # url: /portfolio/
+  - title: "News"
+    url: /portfolio/
+
+  - title: "FSI Lab"
+    url: /fsi/   
 
   - title: "Publications"
     url: /publications/
