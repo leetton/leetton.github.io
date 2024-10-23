@@ -28,6 +28,10 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">10/2024</td>
+      <td class="news-content">I am invited to serve on the Technical Program Committee for EWSN '25.</td>
+    </tr>
+    <tr>
       <td class="news-date">09/2024</td>
       <td class="news-content">I am invited to serve on the Technical Program Committee for PerCom '25.</td>
     </tr>
@@ -117,7 +121,7 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
         <b>Enabling Contact-free Acoustic Sensing under Device Motion</b><br />
            Jialin Liu*, <u>Dong Li</u>*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution) <br />
            <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Atlanta, USA and Cambridge, UK, September 2022</i> <br />
-             <a href="files/MobiCom22_Experience.pdf" class="button-link">PDF</a>
+             <a href="files/IMWUT22_SonicBot.pdf" class="button-link">PDF</a>
       </td>
     </tr>
     <tr class="publications-item">
@@ -126,7 +130,7 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
         <b>LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</b><br />
            <u>Dong Li</u>, Jialin Liu, Sunghoon Ivan Lee, Jie Xiong <br />
            <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Atlanta, USA and Cambridge, UK, September 2022</i> <br />
-             <a href="files/IMWUT21_BlinkListener.pdf" class="button-link">PDF</a>
+             <a href="files/IMWUT22_LASense.pdf" class="button-link">PDF</a>
       </td>
     </tr>
   </table>
