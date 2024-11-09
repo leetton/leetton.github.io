@@ -27,13 +27,29 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
 <div class="news-section">
   <h2>News</h2> 
   <table class="news-table">
+     <tr>
+      <td class="news-date">11/2024</td>
+      <td class="news-content">I will be attending MobiCom '24 in Washington, D.C., from November 18-22, 2024. Looking forward to connecting and discussing exciting ideas with you there!</td>
+    </tr>
+   <tr>
+      <td class="news-date">11/2024</td>
+      <td class="news-content">I have been accpeted to attend the NeTS Early Career Investigator Workshop on Jan. 15-16, 2025 at NSF Headquarters.</td>
+    </tr>
+      <tr>
+      <td class="news-date">10/2024</td>
+      <td class="news-content">Invited to serve as a reviewer for TPCI '24.</td>
+    </tr>
     <tr>
       <td class="news-date">10/2024</td>
-      <td class="news-content">I am invited to serve on the Technical Program Committee for EWSN '25.</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for EWSN '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">10/2024</td>
+      <td class="news-content">Received the Undergraduate Research Experiences (SURE) award to support undergraduate research from UMBC ORCA.</td>
     </tr>
     <tr>
       <td class="news-date">09/2024</td>
-      <td class="news-content">I am invited to serve on the Technical Program Committee for PerCom '25.</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for PerCom '25.</td>
     </tr>
     <tr>
       <td class="news-date">09/2024</td>
@@ -45,7 +61,7 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
     </tr>
     <tr>
       <td class="news-date">08/2024</td>
-      <td class="news-content">I am invited to serve on the Technical Program Committee for ICPADS '24.</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for ICPADS '24.</td>
     </tr>
     <tr>
       <td class="news-date">07/2024</td>
@@ -53,19 +69,19 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
     </tr>
     <tr>
       <td class="news-date">07/2024</td>
-      <td class="news-content">I am invited to serve as a reviewer for ToN '24.</td>
+      <td class="news-content">Invited to serve as a reviewer for ToN '24.</td>
     </tr>
     <tr>
       <td class="news-date">05/2024</td>
-      <td class="news-content">I am invited to serve on the Technical Program Committee for MSN '24.</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for MSN '24.</td>
     </tr>
     <tr>
       <td class="news-date">05/2024</td>
-      <td class="news-content">I am invited to serve as a reviewer for IMWUT '24.</td>
+      <td class="news-content">Invited to serve as a reviewer for IMWUT '24.</td>
     </tr>
     <tr>
       <td class="news-date">05/2024</td>
-      <td class="news-content">I am invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</td>
     </tr>
   </table>
 </div>
@@ -81,9 +97,7 @@ Dr. Dong Li is a tenure-track assistant professor of Department of Computer Scie
         <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />
            Xiaoxuan Liang∗, Zhaolong Wei∗, <u>Dong Li</u>, Jie Xiong, Jeremy Gummeson (*Equal contribution) <br />
            <i>ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Athens, Greece, October 2024</i> <br />
-             <!-- <a href="files/Mobicom23_PowerPhone.pdf" class="button-link">PDF</a>
-             <a href="https://powerphone.github.io" class="button-link">Webpage</a>
-             <a href="https://github.com/PowerPhone" class="button-link">Code</a> -->
+             <a href="https://dl.acm.org/doi/pdf/10.1145/3641512.3686359" class="button-link">PDF</a>
       </td>
     </tr>
     <tr class="publications-item">
