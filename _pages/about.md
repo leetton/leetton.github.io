@@ -8,7 +8,19 @@ redirect_from:
 ---
 
 <div class="justify-text">
-Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. My research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health, AI for IoT.
+Dr. Dong Li is a tenure-track assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). His research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. His research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health, AI for IoT.
+
+<!-- Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. My research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health, AI for IoT. -->
+
+Dr. Li is the founder and director of the Future Sensing and Interaction Lab (FSI Lab). The lab focuses on exploring cost-effective and widely-accessible sensing systems for mobile and Internet of Things (IoT) devices to revolutionize ambient intelligence in health monitoring and human-computer interaction with enhanced precision and scalability. Our interdisciplinary research integrates innovations in sensor system development, algorithm design, data analytics, signal processing, hardware and firmware optimization. Our research spans the following core areas:
+
+<ul>
+        <li><strong>Leveraging Smart Devices for Health Monitoring:</strong> Utilizing affordable and accessible devices (e.g., smartphones, wearables, and IoT sensors) to monitor general health indicators, vital signs, and physical activities, with applications in both clinical and everyday health contexts. </li>
+        <li><strong>Enabling Novel Human-Computer Interaction:</strong> Creating innovative interfaces that enhance interactions between humans and smart devices, leveraging non-intrusive sensing and advanced signal processing to deliver seamless, context-aware, and intuitive user experiences. </li>
+        <li><strong>Advancing Sensing with Enhanced Precision and Scalability:</strong> Exploring innovative sensing techniques to improve accuracy and reliability while ensuring scalability for large-scale deployments in real-world environments. </li>
+</ul>
+
+
 <!-- Research direction: wireless sensing, wearable computing, mobile health, multi-model computing,  -->
 <!-- point-of-care; -->
 <!-- deep learning signal processing hardware design-->
