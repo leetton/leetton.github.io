@@ -38,6 +38,10 @@ redirect_from:
 <div class="news-section">
   <h2>News</h2> 
   <table class="news-table">
+    <tr>
+      <td class="news-date">02/2025</td>
+      <td class="news-content">Awarded the UMB ICTR Pilot Grant.</td>
+    </tr>
      <tr>
       <td class="news-date">12/2024</td>
       <td class="news-content">Invited to serve as the local chair for SEC '25.</td>
@@ -54,13 +58,13 @@ redirect_from:
       <td class="news-date">11/2024</td>
       <td class="news-content">I have been accpeted to attend the NeTS Early Career Investigator Workshop on Jan. 15-16, 2025 at NSF Headquarters.</td>
     </tr>
-      <tr>
-      <td class="news-date">10/2024</td>
-      <td class="news-content">Invited to serve as a reviewer for TPCI '24.</td>
-    </tr>
     <tr>
       <td class="news-date">10/2024</td>
       <td class="news-content">Invited to serve on the Technical Program Committee for EWSN '25.</td>
+    </tr>
+      <tr>
+      <td class="news-date">10/2024</td>
+      <td class="news-content">Invited to serve as a reviewer for TPCI '24.</td>
     </tr>
     <tr>
       <td class="news-date">10/2024</td>
@@ -74,7 +78,7 @@ redirect_from:
       <td class="news-date">09/2024</td>
       <td class="news-content">Our paper is accepted at MobiHoc' 24.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">08/2024</td>
       <td class="news-content">I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</td>
     </tr>
@@ -101,7 +105,7 @@ redirect_from:
     <tr>
       <td class="news-date">05/2024</td>
       <td class="news-content">Invited to serve on the Technical Program Committee for MIMSVA 2024 Workshop (in conjunction with UbiComp/ISWC 2024).</td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 
