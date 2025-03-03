@@ -39,24 +39,32 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">03/2025</td>
+      <td class="news-content">I will be attending PerCom '25 in Washington, D.C., from March 17-21, 2025. Looking forward to connecting and discussing exciting ideas with you there!</td>
+    </tr>
+    <tr>
+      <td class="news-date">03/2025</td>
+      <td class="news-content">Received SURFF funding from UMBC <a href='https://research.umbc.edu/office-of-research-development/'>ORD</a>.</td>
+    </tr>
+    <tr>
       <td class="news-date">02/2025</td>
-      <td class="news-content">Awarded the UMB ICTR Pilot Grant.</td>
+      <td class="news-content">Awarded the <a href='https://www.umaryland.edu/ictr/funding/ictr-pilot-grant-awardee-news/'>UMB ICTR Pilot Grant</a>.</td>
     </tr>
      <tr>
       <td class="news-date">12/2024</td>
-      <td class="news-content">Invited to serve as the local chair for SEC '25.</td>
+      <td class="news-content">Invited to serve as the local chair for <a href='https://acm-ieee-sec.org/2025/committees.php'>SEC '25</a>.</td>
     </tr>
     <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
     </tr>
-     <tr>
+    <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">I will be attending MobiCom '24 in Washington, D.C., from November 18-22, 2024. Looking forward to connecting and discussing exciting ideas with you there!</td>
     </tr>
    <tr>
       <td class="news-date">11/2024</td>
-      <td class="news-content">I have been accpeted to attend the NeTS Early Career Investigator Workshop on Jan. 15-16, 2025 at NSF Headquarters.</td>
+      <td class="news-content">I have been accpeted to attend the <a href='https://sites.google.com/view/nets-early-career-2025/home?authuser=0'>NeTS Early Career Investigator Workshop</a> on January 15-16, 2025 at NSF Headquarters.</td>
     </tr>
     <tr>
       <td class="news-date">10/2024</td>
