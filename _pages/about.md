@@ -40,6 +40,10 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">03/2025</td>
+      <td class="news-content">Invited to serve as a session chair for <a href='https://www.percom.org/tech-prog-main-conference/'>PerCom '25</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">03/2025</td>
       <td class="news-content">I will be attending PerCom '25 in Washington, D.C., from March 17-21, 2025. Looking forward to connecting and discussing exciting ideas with you there!</td>
     </tr>
     <tr>
