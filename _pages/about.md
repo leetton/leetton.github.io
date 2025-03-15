@@ -40,7 +40,7 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">03/2025</td>
-      <td class="news-content">I am honored to be nominated by Dean Joshi and Associate Dean Janeja, with support from the Office of the Provost, to participate in the <a href='https://www.ncfdd.org/fsp-bootcamp%20?utm_term=&utm_campaign=FSP-Leads-Performance+Max-1&utm_source=adwords&utm_medium=ppc&hsa_acc=5909132486&hsa_cam=21527759279&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAABNURbtw0AocXzd1dFfOEjlN_9gt0&gclid=CjwKCAjwp8--BhBREiwAj7og19s228UJNOd3oZRBtAQeNc3CUeQwNVeh66eGzajjDMbITwi_qhPZGBoCqe8QAvD_BwE'>NCFDD Faculty Success Program (Summer 2025)</a>, a prestigious initiative that fosters faculty productivity and professional growth.</td>
+      <td class="news-content">I am honored to be nominated by Dean Anupam Joshi and Associate Dean Vandana Janeja, with support from the Office of the Provost, to participate in the <a href='https://www.ncfdd.org/fsp-bootcamp%20?utm_term=&utm_campaign=FSP-Leads-Performance+Max-1&utm_source=adwords&utm_medium=ppc&hsa_acc=5909132486&hsa_cam=21527759279&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAABNURbtw0AocXzd1dFfOEjlN_9gt0&gclid=CjwKCAjwp8--BhBREiwAj7og19s228UJNOd3oZRBtAQeNc3CUeQwNVeh66eGzajjDMbITwi_qhPZGBoCqe8QAvD_BwE'>NCFDD Faculty Success Program (Summer 2025)</a>, a prestigious initiative that fosters faculty productivity and professional growth.</td>
     </tr>
     <tr>
       <td class="news-date">03/2025</td>
