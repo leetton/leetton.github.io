@@ -8,6 +8,14 @@ author_profile: true
   <!-- <h2>Selection Publications</h2> -->
   <table class="publications-table">
     <tr class="publications-item">
+    <td class="publications-date"><span class="publications-label">S&P Workshop '25</span></td>
+      <td class="publications-content">
+        <b>SecureTrans: Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation</b><br />
+           Hanqing Guo, <u>Dong Li</u>, Ruofeng Liu, Yao Zheng <br />
+           <i>IEEE Symposium on Security and Privacy, SAN FRANCISCO, USA, May 2025</i> <br />
+             <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a>
+      </td>
+    </tr>
       <td class="publications-date"><span class="publications-label">MobiHoc</span></td>
       <td class="publications-content">
         <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />

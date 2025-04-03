@@ -39,6 +39,18 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">04/2025</td>
+      <td class="news-content">Our paper got accepted at IMWUT '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">04/2025</td>
+      <td class="news-content">Invited to serve on the Artifact Evaluation Committee for MobiSys '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">03/2025</td>
+      <td class="news-content">Our paper "Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation" got accepted at S&P Workshop SecureTrans 2025.</td>
+    </tr>
+    <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">I am honored to be nominated by Dean Anupam Joshi and Associate Dean Vandana Janeja, with support from the Office of the Provost, to participate in the <a href='https://www.ncfdd.org/fsp-bootcamp%20?utm_term=&utm_campaign=FSP-Leads-Performance+Max-1&utm_source=adwords&utm_medium=ppc&hsa_acc=5909132486&hsa_cam=21527759279&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAABNURbtw0AocXzd1dFfOEjlN_9gt0&gclid=CjwKCAjwp8--BhBREiwAj7og19s228UJNOd3oZRBtAQeNc3CUeQwNVeh66eGzajjDMbITwi_qhPZGBoCqe8QAvD_BwE'>NCFDD Faculty Success Program (Summer 2025)</a>, a prestigious initiative that fosters faculty productivity and professional growth.</td>
     </tr>
@@ -78,7 +90,7 @@ redirect_from:
       <td class="news-date">11/2024</td>
       <td class="news-content">I have been accpeted to attend the <a href='https://sites.google.com/view/nets-early-career-2025/home?authuser=0'>NeTS Early Career Investigator Workshop</a> on January 15-16, 2025 at NSF Headquarters.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">10/2024</td>
       <td class="news-content">Invited to serve on the Technical Program Committee for EWSN '25.</td>
     </tr>
@@ -97,7 +109,7 @@ redirect_from:
     <tr>
       <td class="news-date">09/2024</td>
       <td class="news-content">Our paper is accepted at MobiHoc' 24.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">08/2024</td>
       <td class="news-content">I will be joining the CSEE Department at UMBC! I will be teaching CMSC 491.26/691.26 Mobile Computing and Wireless Sensing in Fall 2024. I look forward to welcoming you to my course!</td>
@@ -135,6 +147,14 @@ redirect_from:
   <h2>Selection Publications</h2>
   <table class="publications-table">
     <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">S&P Workshop '25</span></td>
+      <td class="publications-content">
+        <b>SecureTrans: Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation</b><br />
+           Hanqing Guo, <u>Dong Li</u>, Ruofeng Liu, Yao Zheng <br />
+           <i>IEEE Symposium on Security and Privacy, SAN FRANCISCO, USA, May 2025</i> <br />
+             <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a>
+      </td>
+    </tr>
       <td class="publications-date"><span class="publications-label">MobiHoc</span></td>
       <td class="publications-content">
         <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />
