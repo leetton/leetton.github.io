@@ -16,6 +16,7 @@ author_profile: true
              <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a>
       </td>
     </tr>
+    <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">MobiHoc</span></td>
       <td class="publications-content">
         <b>SONDAR: Size and Shape Measurements Using Acoustic Imaging</b><br />
