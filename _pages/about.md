@@ -40,6 +40,14 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">04/2025</td>
+      <td class="news-content">Invited to serve as a reviewer for BSN '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">04/2025</td>
+      <td class="news-content">Invited to give a guest lecture at the CS Department, University of Pittsburgh. Thanks to Dr. Shangguan.</td>
+    </tr>
+    <tr>
+      <td class="news-date">04/2025</td>
       <td class="news-content">Our paper got accepted at IMWUT '25.</td>
     </tr>
     <tr>
@@ -82,14 +90,14 @@ redirect_from:
       <td class="news-date">11/2024</td>
       <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">I will be attending MobiCom '24 in Washington, D.C., from November 18-22, 2024. Looking forward to connecting and discussing exciting ideas with you there!</td>
     </tr>
    <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">I have been accpeted to attend the <a href='https://sites.google.com/view/nets-early-career-2025/home?authuser=0'>NeTS Early Career Investigator Workshop</a> on January 15-16, 2025 at NSF Headquarters.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">10/2024</td>
       <td class="news-content">Invited to serve on the Technical Program Committee for EWSN '25.</td>
