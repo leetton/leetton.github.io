@@ -39,6 +39,18 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">Congratulations to my student Riishav Guptaa for receiving the College of Engineering and Information Technology Research Day Poster Award!</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">Invited to serve as a reviewer for TMC '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">04/2025</td>
+      <td class="news-content">Excited to be co-organizing <a href='https://sites.google.com/view/beyondsound'>"BeyondSound: The First Workshop on Intelligent Acoustic Sensing on Wearables"</a> at UbiComp 2025.</td>
+    </tr>
+    <tr>
       <td class="news-date">04/2025</td>
       <td class="news-content">Invited to serve as a reviewer for BSN '25.</td>
     </tr>
@@ -66,10 +78,10 @@ redirect_from:
       <td class="news-date">03/2025</td>
       <td class="news-content">Invited to serve as a session chair for <a href='https://www.percom.org/tech-prog-main-conference/'>PerCom '25</a>.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">I will be attending PerCom '25 in Washington, D.C., from March 17-21, 2025. Looking forward to connecting and discussing exciting ideas with you there!</td>
-    </tr>
+    </tr> -->
     <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">Received SURFF funding from UMBC <a href='https://research.umbc.edu/office-of-research-development/'>ORD</a>.</td>
@@ -86,10 +98,10 @@ redirect_from:
       <td class="news-date">12/2024</td>
       <td class="news-content">Invited to serve as the local chair for <a href='https://acm-ieee-sec.org/2025/committees.php'>SEC '25</a>.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">I will be attending MobiCom '24 in Washington, D.C., from November 18-22, 2024. Looking forward to connecting and discussing exciting ideas with you there!</td>
@@ -154,6 +166,15 @@ redirect_from:
 <div class="publications-section">
   <h2>Selection Publications</h2>
   <table class="publications-table">
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
+      <td class="publications-content">
+        <b>WindDancer: Understanding Acoustic Sensing under Ambient Airflow</b><br />
+           Kuang Yuan, <u>Dong Li</u>, Hao Zhou, Zhehao Li, Lili Qiu, Swarun Kumar, Jie Xiong <br />
+           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
+             <!-- <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a> -->
+             <p style="color: grey;">Coming Soon!</p>
+    </tr>
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">S&P Workshop</span></td>
       <td class="publications-content">
