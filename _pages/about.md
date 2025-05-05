@@ -167,15 +167,6 @@ redirect_from:
   <h2>Selection Publications</h2>
   <table class="publications-table">
     <tr class="publications-item">
-      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
-      <td class="publications-content">
-        <b>WindDancer: Understanding Acoustic Sensing under Ambient Airflow</b><br />
-           Kuang Yuan, <u>Dong Li</u>, Hao Zhou, Zhehao Li, Lili Qiu, Swarun Kumar, Jie Xiong <br />
-           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
-             <!-- <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a> -->
-             <p style="color: grey;">Coming Soon!</p>
-    </tr>
-    <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">S&P Workshop</span></td>
       <td class="publications-content">
         <b>SecureTrans: Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation</b><br />
