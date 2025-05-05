@@ -15,6 +15,7 @@ author_profile: true
            <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
              <!-- <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a> -->
              <p style="color: grey;">Coming Soon!</p>
+      </td>
     </tr>
     <tr class="publications-item">
     <td class="publications-date"><span class="publications-label">S&P Workshop</span></td>
