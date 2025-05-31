@@ -40,6 +40,26 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">05/2025</td>
+      <td class="news-content">Thrilled to share that our demo has been awarded the Best Demo Award at the 46th IEEE Symposium on Security and Privacy (IEEE S&P) – SecureTrans 2025!</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">Invited to participate in the DCC CAREER Mock-Up Panel.</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">Invited to serve as a session chair for CHASE '25</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">Invited to visit <a href='https://www.nano-di.com'>Nano Dimension</a> at Boston.</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
       <td class="news-content">Congratulations to my student Riishav Guptaa for receiving the College of Engineering and Information Technology Research Day Poster Award!</td>
     </tr>
     <tr>
@@ -94,10 +114,10 @@ redirect_from:
       <td class="news-date">02/2025</td>
       <td class="news-content">Awarded the <a href='https://www.umaryland.edu/ictr/funding/ictr-pilot-grant-awardee-news/'>UMB ICTR Pilot Grant</a>.</td>
     </tr>
-     <tr>
+     <!-- <tr>
       <td class="news-date">12/2024</td>
       <td class="news-content">Invited to serve as the local chair for <a href='https://acm-ieee-sec.org/2025/committees.php'>SEC '25</a>.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">11/2024</td>
       <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
