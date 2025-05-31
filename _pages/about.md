@@ -48,7 +48,7 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">05/2025</td>
-      <td class="news-content">Invited to serve as a session chair for CHASE '25</td>
+      <td class="news-content">Invited to serve as a session chair for CHASE '25.</td>
     </tr>
     <tr>
       <td class="news-date">05/2025</td>
