@@ -23,7 +23,7 @@ author_profile: true
         <b>SecureTrans: Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation</b><br />
            Hanqing Guo, <u>Dong Li</u>, Ruofeng Liu, Yao Zheng <br />
            <i>IEEE Symposium on Security and Privacy, SAN FRANCISCO, USA, May 2025</i> <br />
-             <a href="files/SP25_SecureTrans_Demo.pdf" class="button-link">PDF</a>
+             <a href="../files/SP25_SecureTrans_Demo.pdf" class="button-link">PDF</a>
       </td>
     </tr>
     <tr class="publications-item">
