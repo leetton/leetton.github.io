@@ -44,6 +44,10 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">05/2025</td>
+      <td class="news-content">Congratulations to my student Kodi Mkpasi on receiving NSF Research Experiences for Undergraduates (REU) funding for summer research!</td>
+    </tr>
+    <tr>
+      <td class="news-date">05/2025</td>
       <td class="news-content">Invited to participate in the DCC CAREER Mock-Up Panel.</td>
     </tr>
     <tr>
