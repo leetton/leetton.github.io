@@ -29,7 +29,7 @@ author:
   avatar           : "profile.png"
   name             : "Dong Li"
   pronouns         : # example: "she/her"
-  bio: "Assistant Professor<br>CSEE Department<br>UMBC<br><br>Director<br>Future Sensing and Interaction Lab<br><br>Affilicate Faculty<br>UMBC Center for AI"
+  bio: "Assistant Professor<br>CSEE Department<br>UMBC<br><br><strong>Director</strong><br><a href='/fsi/'>Future Sensing and Interaction Lab</a><br><br><strong>Affiliate Faculty</strong><br><a href='https://ai.umbc.edu'>UMBC Center for AI</a>"
   location         : "355 ITE Building, Baltimore, MD"
   # employer         : "CSEEUMBC"
   # employer         : "University of Maryland Baltimore County"

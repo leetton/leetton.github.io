@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<div class="openings-box">
+  <h3>Openings</h3>
+  <p>I am actively looking for self-motivated Ph.D. students, master sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
+</div>
+
 <div class="justify-text">
 <p>Dr. Dong Li is an assistant professor of Department of Computer Science and Electrical Engineering (CSEE) at University of Maryland Baltimore County (UMBC). His research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. His research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health, AI for IoT. </p>
 
@@ -24,11 +29,6 @@ redirect_from:
 <!-- point-of-care; -->
 <!-- deep learning signal processing hardware design-->
 <!-- hci wireless sensing smart health -->
-</div>
-
-<div class="openings-box">
-  <h3>Openings</h3>
-  <p>I am actively looking for self-motivated Ph.D. students, master sutdents and research interns to join my group. Feel free to send me an email with your CV.</p>
 </div>
 
 <!-- I am a final-year Ph.D. student of Manning College of Information and Computer Sciences at University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. I also work with Prof. Sunghoon Ivan Lee and Prof. Jeremy Gummeson. I am broadly interested in building novel wireless sensing systems using a variety of sensing modalities, including acoustics, Wi-Fi, mmWave, UWB, and RFID. My research mainly includes localization and tracking, human-computer interaction, and health sensing. -->
