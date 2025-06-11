@@ -32,6 +32,10 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">06/2025</td>
+      <td class="news-content">Received FEAT funding. Thanks to UMBC <a href='https://oia.umbc.edu'>OIA</a> and <a href='https://research.umbc.edu/ovpr-offices/'>ORCA</a>.</td>
+    </tr>
+    <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Thrilled to share that our demo has been awarded the Best Demo Award at the 46th IEEE Symposium on Security and Privacy (IEEE S&P) – SecureTrans 2025!</td>
     </tr>
@@ -101,7 +105,7 @@ redirect_from:
     </tr> -->
     <tr>
       <td class="news-date">03/2025</td>
-      <td class="news-content">Received SURFF funding from UMBC <a href='https://research.umbc.edu/office-of-research-development/'>ORD</a>.</td>
+      <td class="news-content">Received SURFF funding. Thanks to UMBC <a href='https://research.umbc.edu/office-of-research-development/'>ORD</a>.</td>
     </tr>
     <tr>
       <td class="news-date">02/2025</td>
