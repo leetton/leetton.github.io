@@ -33,6 +33,10 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">06/2025</td>
+      <td class="news-content">Received the <a href='https://research.google/programs-and-events/research-scholar-program/recipients/'>2025 Google Research Scholar Award</a>. Many thanks to Google for the support and recognition!</td>
+    </tr>
+    <tr>
+      <td class="news-date">06/2025</td>
       <td class="news-content">Received FEAT funding. Thanks to UMBC <a href='https://oia.umbc.edu'>OIA</a> and <a href='https://research.umbc.edu/ovpr-offices/'>ORCA</a>!</td>
     </tr>
     <tr>
