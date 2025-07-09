@@ -32,6 +32,10 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">07/2025</td>
+      <td class="news-content">Excited to co-chair the “Security and Privacy in Mobile and Ubiquitous Systems” track at <a href='http://ieee-icpads.org.cn/CFP-research-paper.html'>ICPADS 2025</a>.</td>
+    </tr>
+    <tr>
       <td class="news-date">06/2025</td>
       <td class="news-content">Received the <a href='https://research.google/programs-and-events/research-scholar-program/recipients/'>2025 Google Research Scholar Award</a>. Many thanks to Google for the support and recognition!</td>
     </tr>
