@@ -33,7 +33,19 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">07/2025</td>
-      <td class="news-content">Excited to co-chair the “Security and Privacy in Mobile and Ubiquitous Systems” track at <a href='http://ieee-icpads.org.cn/CFP-research-paper.html'>ICPADS 2025</a>.</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for <a href='https://percom.org'>PerCom '26</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">07/2025</td>
+      <td class="news-content">Invited to serve on Technical Program Committee for <a href='http://intelligent-acoustics.org/2025/#committee'>IASA 2025</a> at MobiCom.</td>
+    </tr>
+    <tr>
+      <td class="news-date">07/2025</td>
+      <td class="news-content">Invited to serve as a reviewer for TMC '25.</td>
+    </tr>
+    <tr>
+      <td class="news-date">07/2025</td>
+      <td class="news-content">Excited to co-chair the “Security and Privacy in Mobile and Ubiquitous Systems” track at <a href='http://ieee-icpads.org.cn/CFP-research-paper.html'>ICPADS 2025</a>. Welcome to submit paper in Security and Privacy in Mobile and Ubiquitous Systems!</td>
     </tr>
     <tr>
       <td class="news-date">06/2025</td>
