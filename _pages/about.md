@@ -209,8 +209,8 @@ redirect_from:
         <b>WindDancer: Understanding Acoustic Sensing under Ambient Airflow</b><br />
            Kuang Yuan, <u>Dong Li</u>, Hao Zhou, Zhehao Li, Lili Qiu, Swarun Kumar, Jie Xiong <br />
            <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
-             <!-- <a href="https://hanqingguo.github.io/papers/securetrans2025-paper25.pdf" class="button-link">PDF</a> -->
-             <p style="color: grey;">Coming Soon!</p>
+             <a href="https://dl.acm.org/doi/pdf/10.1145/3729469" class="button-link">PDF</a>
+             <!-- <p style="color: grey;">Coming Soon!</p> -->
       </td>
     </tr>
     <tr class="publications-item">
