@@ -10,6 +10,16 @@ author_profile: true
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
+        <b>Acoustoscillogram: Unlocking Arterial Health Insights via Acoustic Sensing with Low-cost Wired Earphones</b><br />
+           Xiaoxuan Liang, Zhaolong Wei, Shirui Cao, Quan Zhang, Longfei Shangguan, <u>Dong Li</u>, Jeremy Gummeson <br />
+           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
+             <!-- <a href="https://dl.acm.org/doi/pdf/10.1145/3729469" class="button-link">PDF</a> -->
+             <p style="color: grey;">Coming Soon!</p>
+      </td>
+    </tr>
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
+      <td class="publications-content">
         <b>WindDancer: Understanding Acoustic Sensing under Ambient Airflow</b><br />
            Kuang Yuan, <u>Dong Li</u>, Hao Zhou, Zhehao Li, Lili Qiu, Swarun Kumar, Jie Xiong <br />
            <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
