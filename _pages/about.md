@@ -45,10 +45,6 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">09/2025</td>
-      <td class="news-content">Invited to serve as a reviewer for CHI '26.</td>
-    </tr>
-    <tr>
-      <td class="news-date">09/2025</td>
       <td class="news-content">Our paper got accepted at IMWUT '25.</td>
     </tr>
     <tr>
