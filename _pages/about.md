@@ -233,8 +233,8 @@ redirect_from:
         <b>Acoustoscillogram: Unlocking Arterial Health Insights via Acoustic Sensing with Low-cost Wired Earphones</b><br />
            Xiaoxuan Liang, Zhaolong Wei, Shirui Cao, Quan Zhang, Longfei Shangguan, <u>Dong Li</u>, Jeremy Gummeson <br />
            <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i> <br />
-             <a href="https://dl.acm.org/doi/pdf/10.1145/3729469" class="button-link">PDF</a>
-             <!-- <p style="color: grey;">Coming Soon!</p> -->
+             <!-- <a href="https://dl.acm.org/doi/pdf/10.1145/3729469" class="button-link">PDF</a> -->
+             <p style="color: grey;">Coming Soon!</p>
       </td>
     </tr>
     <tr class="publications-item">
