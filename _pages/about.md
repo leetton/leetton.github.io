@@ -87,18 +87,18 @@ redirect_from:
       <td class="news-date">05/2025</td>
       <td class="news-content">Congratulations to my student Kodi Mkpasi on receiving NSF Research Experiences for Undergraduates (REU) funding for summer research!</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Invited to participate in the DCC CAREER Mock-Up Panel.</td>
-    </tr>
+    </tr> -->
     <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Invited to visit <a href='https://www.nano-di.com'>Nano Dimension</a> at Boston.</td>
-    </tr>
+    </tr> -->
     <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Congratulations to my student Riishav Guptaa for receiving the College of Engineering and Information Technology Research Day Poster Award!</td>
@@ -115,10 +115,10 @@ redirect_from:
       <td class="news-date">04/2025</td>
       <td class="news-content">Invited to serve as a reviewer for BSN '25.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">04/2025</td>
       <td class="news-content">Invited to give a guest lecture at the CS Department, University of Pittsburgh. Thanks to Dr. Shangguan.</td>
-    </tr>
+    </tr> -->
     <tr>
       <td class="news-date">04/2025</td>
       <td class="news-content">Our paper got accepted at IMWUT '25.</td>
@@ -135,10 +135,10 @@ redirect_from:
       <td class="news-date">03/2025</td>
       <td class="news-content">I am honored to be nominated by Dean Anupam Joshi and Associate Dean Vandana Janeja, with support from the Office of the Provost, to participate in the <a href='https://www.ncfdd.org/fsp-bootcamp%20?utm_term=&utm_campaign=FSP-Leads-Performance+Max-1&utm_source=adwords&utm_medium=ppc&hsa_acc=5909132486&hsa_cam=21527759279&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAABNURbtw0AocXzd1dFfOEjlN_9gt0&gclid=CjwKCAjwp8--BhBREiwAj7og19s228UJNOd3oZRBtAQeNc3CUeQwNVeh66eGzajjDMbITwi_qhPZGBoCqe8QAvD_BwE'>NCFDD Faculty Success Program (Summer 2025)</a>, a prestigious initiative that fosters faculty productivity and professional growth.</td>
     </tr> -->
-    <tr>
+    <!-- <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">Invited to serve as a session chair for <a href='https://www.percom.org/tech-prog-main-conference/'>PerCom '25</a>.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">I will be attending PerCom '25 in Washington, D.C., from March 17-21, 2025. Looking forward to connecting and discussing exciting ideas with you there!</td>
