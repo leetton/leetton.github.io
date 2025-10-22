@@ -33,6 +33,10 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">10/2025</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for <a href='https://www.sigmobile.org/mobisys/2026/'>MobiSys '26</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">10/2025</td>
       <td class="news-content">Invited to serve as a collaborating faculty member for the <a href="https://cypress.umbc.edu" target="_blank" rel="noopener noreferrer">Center for Research in Use-Inspired Cyber-Physical Systems (CYPRESS)</a>. Excited to collaborate with <a href="https://mpsc.umbc.edu/nroy" target="_blank" rel="noopener noreferrer">Dr. Nirmalya Roy</a> and the team on impactful research initiatives.</td>
     </tr>
     <tr>
