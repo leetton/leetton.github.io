@@ -45,7 +45,7 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">12/2025</td>
-      <td class="news-content">Invited to serve on the Technical Program Committee for <a href='    https://ewsn26.netd.cs.tu-dresden.de'>EWSN '26</a>.</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for <a href='https://ewsn26.netd.cs.tu-dresden.de'>EWSN '26</a>.</td>
     </tr>
     <tr>
       <td class="news-date">12/2025</td>
@@ -58,6 +58,14 @@ redirect_from:
     <tr>
       <td class="news-date">11/2025</td>
       <td class="news-content">Selected to participate in the Make Your Research Come Alive (myRCA) program.</td>
+    </tr>
+    <tr>
+      <td class="news-date">11/2025</td>
+      <td class="news-content">Invited to give a talk at <a href='https://cypress.umbc.edu'>UMBC CYPRESS center</a>.</td>
+    </tr>
+        <tr>
+      <td class="news-date">11/2025</td>
+      <td class="news-content">Invited to give a talk at the BCI workshop.</td>
     </tr>
     <tr>
       <td class="news-date">10/2025</td>
