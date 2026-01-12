@@ -32,6 +32,34 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">1/2026</td>
+      <td class="news-content">Selected as an entrepreneur in the <a href='https://bwtech.umbc.edu/programs/maryland-new-venture/'>MD New Venture Program 2026 (Cohort 6).</a></td>
+    </tr>
+    <tr>
+      <td class="news-date">1/2026</td>
+      <td class="news-content">Invited to serve as a Workshop Chair for IEEE/ACM SEC '26. Welcome submissions from the community!</td>
+    </tr>
+    <tr>
+      <td class="news-date">1/2026</td>
+      <td class="news-content">Invited to serve as a Workshop Co-Chair for <a href='https://conferences.computer.org/chase2026/index.html?='>IEEE/ACM CHASE '26</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">12/2025</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for <a href='    https://ewsn26.netd.cs.tu-dresden.de'>EWSN '26</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">12/2025</td>
+      <td class="news-content">Invited to serve as a reviewer for IEEE Internet Computing.</td>
+    </tr>
+    <tr>
+      <td class="news-date">11/2025</td>
+      <td class="news-content">Invited to give a guest lecture at School of Computing, University of Georgia. Thanks to Dr. Zhenlin An.</td>
+    </tr>
+    <tr>
+      <td class="news-date">11/2025</td>
+      <td class="news-content">Selected to participate in the Make Your Research Come Alive (myRCA) program.</td>
+    </tr>
+    <tr>
       <td class="news-date">10/2025</td>
       <td class="news-content">Invited to serve on the Technical Program Committee for <a href='https://www.sigmobile.org/mobisys/2026/'>MobiSys '26</a>.</td>
     </tr>
@@ -51,7 +79,7 @@ redirect_from:
       <td class="news-date">09/2025</td>
       <td class="news-content">Our paper got accepted at IMWUT '26.</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td class="news-date">09/2025</td>
       <td class="news-content">Invited to serve on the Best Paper Committee for EWSN '25.</td>
     </tr>
@@ -74,8 +102,8 @@ redirect_from:
     <tr>
       <td class="news-date">07/2025</td>
       <td class="news-content">Excited to co-chair the “Security and Privacy in Mobile and Ubiquitous Systems” track at <a href='http://ieee-icpads.org.cn/CFP-research-paper.html'>ICPADS 2025</a>. Welcome to submit paper in Security and Privacy in Mobile and Ubiquitous Systems!</td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
       <td class="news-date">06/2025</td>
       <td class="news-content">Received the <a href='https://research.google/programs-and-events/research-scholar-program/recipients/'>2025 Google Research Scholar Award</a>. Many thanks to Google for the support and recognition!</td>
     </tr>
@@ -90,20 +118,20 @@ redirect_from:
     <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Congratulations to my student Kodi Mkpasi on receiving NSF Research Experiences for Undergraduates (REU) funding for summer research!</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Invited to participate in the DCC CAREER Mock-Up Panel.</td>
     </tr> -->
-    <tr>
+    <!-- <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Invited to serve as a reviewer for IMWUT '25.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Invited to visit <a href='https://www.nano-di.com'>Nano Dimension</a> at Boston.</td>
     </tr> -->
-    <tr>
+    <!-- <tr>
       <td class="news-date">05/2025</td>
       <td class="news-content">Congratulations to my student Riishav Guptaa for receiving the College of Engineering and Information Technology Research Day Poster Award!</td>
     </tr>
@@ -118,12 +146,12 @@ redirect_from:
     <tr>
       <td class="news-date">04/2025</td>
       <td class="news-content">Invited to serve as a reviewer for BSN '25.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">04/2025</td>
       <td class="news-content">Invited to give a guest lecture at the CS Department, University of Pittsburgh. Thanks to Dr. Shangguan.</td>
     </tr> -->
-    <tr>
+    <!-- <tr>
       <td class="news-date">04/2025</td>
       <td class="news-content">Our paper got accepted at IMWUT '25.</td>
     </tr>
@@ -134,7 +162,7 @@ redirect_from:
     <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">Our paper "Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation" got accepted at S&P Workshop SecureTrans 2025.</td>
-    </tr>
+    </tr> -->
     <!-- <tr>
       <td class="news-date">03/2025</td>
       <td class="news-content">I am honored to be nominated by Dean Anupam Joshi and Associate Dean Vandana Janeja, with support from the Office of the Provost, to participate in the <a href='https://www.ncfdd.org/fsp-bootcamp%20?utm_term=&utm_campaign=FSP-Leads-Performance+Max-1&utm_source=adwords&utm_medium=ppc&hsa_acc=5909132486&hsa_cam=21527759279&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAABNURbtw0AocXzd1dFfOEjlN_9gt0&gclid=CjwKCAjwp8--BhBREiwAj7og19s228UJNOd3oZRBtAQeNc3CUeQwNVeh66eGzajjDMbITwi_qhPZGBoCqe8QAvD_BwE'>NCFDD Faculty Success Program (Summer 2025)</a>, a prestigious initiative that fosters faculty productivity and professional growth.</td>
@@ -155,10 +183,10 @@ redirect_from:
       <td class="news-date">02/2025</td>
       <td class="news-content">Invited to serve on the Technical Program Committee for <a href='https://humansys-workshop.github.io/WS/2025/index.html'>HumanSys '25</a>.</td>
     </tr> -->
-    <tr>
+    <!-- <tr>
       <td class="news-date">02/2025</td>
       <td class="news-content">Awarded the <a href='https://www.umaryland.edu/ictr/funding/ictr-pilot-grant-awardee-news/'>UMB ICTR Pilot Grant</a>.</td>
-    </tr>
+    </tr> -->
      <!-- <tr>
       <td class="news-date">12/2024</td>
       <td class="news-content">Invited to serve as the local chair for <a href='https://acm-ieee-sec.org/2025/committees.php'>SEC '25</a>.</td>
