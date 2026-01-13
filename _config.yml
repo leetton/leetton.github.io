@@ -29,7 +29,7 @@ author:
   avatar           : "profile.png"
   name             : "Dong Li"
   pronouns         : # example: "she/her"
-  bio: "Assistant Professor<br><a href='https://www.csee.umbc.edu'>CompSci & ElecEng</a><br><a href='https://umbc.edu'>Univ. of Maryland, Baltimore County</a><br><br><strong>Director</strong><br><a href='/fsi/'>Future Sensing and Interaction Lab</a><br><br><strong>Affiliate Faculty</strong><br><a href='https://ai.umbc.edu'>UMBC Center for AI</a><br><a href='https://cypress.umbc.edu'>UMBC CYPRESS</a>"
+  bio: "Assistant Professor<br><a href='https://www.csee.umbc.edu'>CompSci & ElecEng</a><br><a href='https://umbc.edu'>Univ. of Maryland, Baltimore County</a><br><br><strong>Director</strong><br><a href='/fsi/'>Future Sensing and Interaction Lab</a><br><br><strong>Affiliate Faculty</strong><br><a href='https://ai.umbc.edu'>UMBC Center for AI</a><br><a href='https://cypress.umbc.edu'>UMBC CYPRESS</a><br><a href='https://phrc.umbc.edu'>Public Health Research Center</a>"
   location         : "355 ITE Building, Baltimore, MD"
   # employer         : "CSEEUMBC"
   # employer         : "University of Maryland Baltimore County"
