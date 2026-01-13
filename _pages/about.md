@@ -32,7 +32,7 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
-      <td class="news-date">1/2026</td>
+      <td class="news-date">2/2026</td>
       <td class="news-content">Selected as a Faculty Affiliate of the <a href='https://phrc.umbc.edu'>Public Health Research Center (PHRC)</a>. Looking forward to collaborating with PHRC’s interdisciplinary community on impactful public health research initiatives.</td>
     </tr>
     <tr>
