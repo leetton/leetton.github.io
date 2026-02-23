@@ -32,6 +32,14 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">2/2026</td>
+      <td class="news-content">Invited to serve as a reviewer for <a href='https://embc.embs.org/2026/'>IEEE EMBC '26</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">2/2026</td>
+      <td class="news-content">Selected into the UMBC Entrepreneurial Learning Lab (ELL) Spring 2026 Cohort.</td>
+    </tr>
+    <tr>
       <td class="news-date">1/2026</td>
       <td class="news-content">Selected as a Faculty Affiliate of the <a href='https://phrc.umbc.edu'>Public Health Research Center (PHRC)</a>. Looking forward to collaborating with PHRC’s interdisciplinary community on impactful public health research initiatives.</td>
     </tr>
