@@ -45,11 +45,11 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">1/2026</td>
-      <td class="news-content">Selected as an entrepreneur in the <a href='https://bwtech.umbc.edu/programs/maryland-new-venture/'>MD New Venture Program 2026 (Cohort 6).</td>
+      <td class="news-content">Selected as an entrepreneur in the <a href='https://bwtech.umbc.edu/programs/maryland-new-venture/'>MD New Venture Program 2026 (Cohort 6)</a>.</td>
     </tr>
     <tr>
-      <td class="news-date">1/2026</td> 
-      <td class="news-content">Invited to serve as a Workshop Chair for <a href='https://acm-ieee-sec.org/2026/'>IEEE/ACM SEC '26</a>.</td>
+      <td class="news-date">1/2026</td>
+      <td class="news-content">Invited to serve as a Workshop Chair for IEEE/ACM SEC '26.</td>
     </tr>
     <tr>
       <td class="news-date">1/2026</td>
