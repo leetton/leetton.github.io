@@ -15,7 +15,7 @@ author_profile: true
       <b>From Hearing to Feeling: Unlocking Through-Skin Acoustic Sensing on Smartphones</b><br />
       <u>Dong Li</u><br />
       <i>GetMobile: Mobile Computing and Communications, 2026</i><br />
-      <a href="../files/GetMobile26_ThroughSkin_Acoustic_Sensing.pdf" class="button-link">PDF</a>
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3793236.3793238" class="button-link">PDF</a>
       </td>
     </tr>
     <tr class="publications-item">
