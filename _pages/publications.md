@@ -8,6 +8,17 @@ author_profile: true
   <!-- <h2>Selection Publications</h2> -->
   <table class="publications-table">
     <tr class="publications-item">
+      <td class="publications-date">
+      <span class="publications-label">GetMobile<br />ACM SIGMOBILE</span>
+    </td>
+    <td class="publications-content">
+      <b>From Hearing to Feeling: Unlocking Through-Skin Acoustic Sensing on Smartphones</b><br />
+      <u>Dong Li</u><br />
+      <i>GetMobile: Mobile Computing and Communications, 2026</i><br />
+      <a href="../files/GetMobile26_ThroughSkin_Acoustic_Sensing.pdf" class="button-link">PDF</a>
+      </td>
+    </tr>
+    <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
         <b>Acoustoscillogram: Unlocking Arterial Health Insights via Acoustic Sensing with Low-cost Wired Earphones</b><br />

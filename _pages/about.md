@@ -17,7 +17,6 @@ redirect_from:
 
 <!-- Before joining UMBC,  I received my Ph.D. from University of Massachusetts Amherst under the supervision of Prof. Jie Xiong. My research vision is to develop mobile, wearable, and ubiquitous computing systems that can help humanity in healthcare equity, wealth distribution, and environmental sustainability by making them more affordable and accessible to the average user worldwide. My research interests lie in mobile computing, wireless sensing, wearable sensing, multi-model sensing, smart health, AI for IoT. -->
 
-
 <!-- Research direction: wireless sensing, wearable computing, mobile health, multi-model computing,  -->
 <!-- point-of-care; -->
 <!-- deep learning signal processing hardware design-->
@@ -31,6 +30,10 @@ redirect_from:
 <div class="news-section">
   <h2>News</h2> 
   <table class="news-table">
+    <tr>
+      <td class="news-date">2/2026</td>
+      <td class="news-content">Selected to serve on the ACM TOSN Distinguished Reviewer Board (DRB) for the 2026–2027 term.</td>
+    </tr>
     <tr>
       <td class="news-date">2/2026</td>
       <td class="news-content">Invited to serve as a reviewer for <a href='https://embc.embs.org/2026/'>IEEE EMBC '26</a>.</td>
@@ -279,6 +282,17 @@ redirect_from:
 <div class="publications-section">
   <h2>Selection Publications</h2>
   <table class="publications-table">
+    <tr class="publications-item">
+      <td class="publications-date">
+      <span class="publications-label">GetMobile<br />ACM SIGMOBILE</span>
+    </td>
+    <td class="publications-content">
+      <b>From Hearing to Feeling: Unlocking Through-Skin Acoustic Sensing on Smartphones</b><br />
+      <u>Dong Li</u><br />
+      <i>GetMobile: Mobile Computing and Communications, 2026</i><br />
+      <a href="../files/GetMobile26_ThroughSkin_Acoustic_Sensing.pdf" class="button-link">PDF</a>
+      </td>
+    </tr>
     <tr class="publications-item">
       <td class="publications-date"><span class="publications-label">IMWUT/<br>UbiComp</span></td>
       <td class="publications-content">
