@@ -9,7 +9,7 @@ author_profile: true
   <table class="publications-table">
     <tr class="publications-item">
       <td class="publications-date">
-      <span class="publications-label">GetMobile<br />ACM SIGMOBILE</span>
+      <span class="publications-label">GetMobile</span>
     </td>
     <td class="publications-content">
       <b>From Hearing to Feeling: Unlocking Through-Skin Acoustic Sensing on Smartphones</b><br />
