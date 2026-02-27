@@ -102,6 +102,10 @@ redirect_from:
       <td class="news-date">09/2025</td>
       <td class="news-content">Invited to serve as a reviewer for CHI '26.</td>
     </tr>
+     <tr>
+      <td class="news-date">09/2025</td>
+      <td class="news-content">Glad to be selected as the <a href='https://www.ewsn25.cs.kuleuven.be/organization/technical-program-committee'>distinguished TPC member</a> of EWSN’25.</td>
+    </tr>
     <tr>
       <td class="news-date">09/2025</td>
       <td class="news-content">Our paper got accepted at IMWUT '26.</td>
