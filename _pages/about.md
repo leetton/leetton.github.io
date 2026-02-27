@@ -32,6 +32,10 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">2/2026</td>
+      <td class="news-content">Attended the in-person MobiSys TPC meeting at Atlanta.</td>
+    </tr>
+    <tr>
+      <td class="news-date">2/2026</td>
       <td class="news-content">Selected to serve on the ACM TOSN Distinguished Reviewer Board (DRB) for the 2026–2027 term.</td>
     </tr>
     <tr>
