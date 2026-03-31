@@ -32,6 +32,10 @@ redirect_from:
   <table class="news-table">
     <tr>
       <td class="news-date">3/2026</td>
+      <td class="news-content">Invited to give a talk at College of Information, University of North Texas. Thanks to Dr. Kewei Sha and Dr. Haihua Chen.</td>
+    </tr>
+    <tr>
+      <td class="news-date">3/2026</td>
       <td class="news-content">One paper was conditionally accepted at MobiSys '26.</td>
     </tr>
     <tr>
