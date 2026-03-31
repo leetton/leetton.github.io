@@ -773,6 +773,7 @@ border-radius: .1em;
 
 .student-info {
   padding: 10px;
+  white-space: nowrap;
   justify-content: center; /* Center text vertically */
 }
 
