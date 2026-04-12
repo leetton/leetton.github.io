@@ -31,6 +31,22 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">4/2026</td>
+      <td class="news-content">Invited to serve on a NSF Panel!</td>
+    </tr>
+    <tr>
+      <td class="news-date">4/2026</td>
+      <td class="news-content">Invited to give a talk at Department of Computer and Information Sciences at the University of Delaware. Thanks to Dr. Weisong Shi.</td>
+    </tr>
+    <tr>
+      <td class="news-date">4/2026</td>
+      <td class="news-content">My undergraduate student, Kodi Mkpasi, has been selected for UMBC’s U-RISE 7th cohort. Congratulations!</td>
+    </tr>
+    <tr>
+      <td class="news-date">4/2026</td>
+      <td class="news-content">My undergraduate student, Tushar Passi, has been selected as a fellow for the Carnegie Mellon University IT Lab: Summer Security Intensive (SSI) 2026. Congratulations on this outstanding achievement!</td>
+    </tr>
+    <tr>
       <td class="news-date">3/2026</td>
       <td class="news-content">Invited to give a talk at College of Information, University of North Texas. Thanks to Dr. Kewei Sha and Dr. Haihua Chen.</td>
     </tr>
