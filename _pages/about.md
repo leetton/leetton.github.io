@@ -31,6 +31,18 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">5/2026</td>
+      <td class="news-content">Honored to win 1st Place at the <a href='https://potomac24.com/maryland-new-venture-pitch-night-26-showcases-marylands-emerging-startup-founders-at-bwtechumbc/#pocketcardio-captures-the-5000-grand-prize'>Maryland NEW VENTURE™ Program Pitch Night</a>.</td>
+    </tr>
+    <tr>
+      <td class="news-date">5/2026</td>
+      <td class="news-content">Received CENTRE funding. Thanks to <a href='https://entrepreneurship.umbc.edu/centre-funding-initiative/'>the Alex. Brown Center for Entrepreneurship</a>!</td>
+    </tr>
+    <tr>
+      <td class="news-date">5/2026</td>
+      <td class="news-content">FSI Lab PhD students Rishav Gupta, along with undergraduate student Kodi Mkpasi and Christian Wilkins, received multiple awards at the UMBC COEIT Research Day 2026 for innovative research in smartphone sensing, digital health, and wearable intelligence, including the Computing for Social Good Award and multiple COEIT Research Day Student Awards. Congratulations!</td>
+    </tr>
+    <tr>
       <td class="news-date">4/2026</td>
       <td class="news-content">My Ph.D. student, Rishav Gupta, has been awarded for the <a href='https://www.csee.umbc.edu/news-events/2026-csee-research-day/2026-csee-research-day-awardees/'>Best Poster at the UMBC CSEE Research Day</a>. Congratulations!</td>
     </tr>
@@ -43,7 +55,7 @@ redirect_from:
       <td class="news-content">Invited to serve on the Program Committee for the <a href='https://mobidx.health'>1st Workshop on Hot Topics in Mobile and Wireless Systems for Health</a>, Co-located with MobiCom 2026.</td>
     </tr>
     <tr>
-      <td class="news-date">2/2026</td>
+      <td class="news-date">4/2026</td>
       <td class="news-content">Invited to serve as a reviewer for TMC '26.</td>
     </tr>
     <tr>
