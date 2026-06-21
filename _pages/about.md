@@ -31,6 +31,14 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">6/2026</td>
+      <td class="news-content">I will attend <a href='https://www.sigmobile.org/mobisys/2026/'>ACM MobiSys 2026</a> in Cambridge, UK. Looking forward to presenting our research and engaging with the mobile systems community.</td>
+    </tr>
+    <tr>
+      <td class="news-date">6/2026</td>
+      <td class="news-content">Received Strategic Awards for Research Transitions (START) funding. Thanks to the UMBC Office of Research Development!</td>
+    </tr>
+    <tr>
       <td class="news-date">5/2026</td>
       <td class="news-content">Honored to win 1st Place at the <a href='https://potomac24.com/maryland-new-venture-pitch-night-26-showcases-marylands-emerging-startup-founders-at-bwtechumbc/#pocketcardio-captures-the-5000-grand-prize'>Maryland NEW VENTURE™ Program Pitch Night</a>.</td>
     </tr>
@@ -342,6 +350,15 @@ redirect_from:
 <div class="publications-section">
   <h2>Selection Publications</h2>
   <table class="publications-table">
+    <tr class="publications-item">
+      <td class="publications-date"><span class="publications-label">MobiSys</span></td>
+      <td class="publications-content">
+        <b>[Emerging Ideas] Phonotonos: Through-Skin Ultrasonic Blood Flow Sensing Using Smartphones</b><br />
+           Shirui Cao, Jie Xiong, Rishav Gupta, Sunghoon Ivan Lee, Jeremy Gummeson, and <u>Dong Li</u><br />
+           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026</i> <br />
+            <a href="../files/MobiSys26_Phonotonos.pdf" class="button-link">PDF</a>
+      </td>
+    </tr>
     <tr class="publications-item">
       <td class="publications-date">
       <span class="publications-label">GetMobile</span>
