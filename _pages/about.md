@@ -355,7 +355,7 @@ redirect_from:
       <td class="publications-content">
         <b>[Emerging Ideas] Phonotonos: Through-Skin Ultrasonic Blood Flow Sensing Using Smartphones</b><br />
            Shirui Cao, Jie Xiong, Rishav Gupta, Sunghoon Ivan Lee, Jeremy Gummeson, and <u>Dong Li</u><br />
-           <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026</i> <br />
+           <i>Proceedings of The 24th ACM International Conference on Mobile Systems, Applications, and Services, 2026</i> <br />
             <a href="../files/MobiSys26_Phonotonos.pdf" class="button-link">PDF</a>
       </td>
     </tr>
