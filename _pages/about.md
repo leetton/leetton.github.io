@@ -31,12 +31,20 @@ redirect_from:
   <h2>News</h2> 
   <table class="news-table">
     <tr>
+      <td class="news-date">7/2026</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for MobiCom '27. We welcome your submissions!</td>
+    </tr>
+    <tr>
       <td class="news-date">6/2026</td>
       <td class="news-content">I will attend <a href='https://www.sigmobile.org/mobisys/2026/'>ACM MobiSys 2026</a> in Cambridge, UK. Looking forward to presenting our research and engaging with the mobile systems community.</td>
     </tr>
     <tr>
       <td class="news-date">6/2026</td>
       <td class="news-content">Received Strategic Awards for Research Transitions (START) funding. Thanks to the UMBC Office of Research Development!</td>
+    </tr>
+    <tr>
+      <td class="news-date">5/2026</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for <a href='https://sensys.acm.org/2027/tpc_committee.html'>SenSys '27</a>.</td>
     </tr>
     <tr>
       <td class="news-date">5/2026</td>
