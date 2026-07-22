@@ -36,6 +36,10 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">6/2026</td>
+      <td class="news-content">Selected to serve as a reviewer for TOSN '26.</td>
+    </tr>
+    <tr>
+      <td class="news-date">6/2026</td>
       <td class="news-content">I will attend <a href='https://www.sigmobile.org/mobisys/2026/'>ACM MobiSys 2026</a> in Cambridge, UK. Looking forward to presenting our research and engaging with the mobile systems community.</td>
     </tr>
     <tr>
@@ -57,6 +61,10 @@ redirect_from:
     <tr>
       <td class="news-date">5/2026</td>
       <td class="news-content">FSI Lab PhD students Rishav Gupta, along with undergraduate student Kodi Mkpasi and Christian Wilkins, received multiple awards at the UMBC COEIT Research Day 2026 for innovative research in smartphone sensing, digital health, and wearable intelligence, including the Computing for Social Good Award and multiple COEIT Research Day Student Awards. Congratulations!</td>
+    </tr>
+    <tr>
+      <td class="news-date">4/2026</td>
+      <td class="news-content">Invited to serve on the Technical Program Committee for the <a href='https://mobidx.health'>1st Workshop on Hot Topics in Mobile and Wireless Systems for Health (MobiDx '26) </a>!</td>
     </tr>
     <tr>
       <td class="news-date">4/2026</td>
