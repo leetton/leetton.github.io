@@ -64,10 +64,6 @@ redirect_from:
     </tr>
     <tr>
       <td class="news-date">4/2026</td>
-      <td class="news-content">Invited to serve on the Technical Program Committee for the <a href='https://mobidx.health'>1st Workshop on Hot Topics in Mobile and Wireless Systems for Health (MobiDx '26) </a>!</td>
-    </tr>
-    <tr>
-      <td class="news-date">4/2026</td>
       <td class="news-content">My Ph.D. student, Rishav Gupta, has been awarded for the <a href='https://www.csee.umbc.edu/news-events/2026-csee-research-day/2026-csee-research-day-awardees/'>Best Poster at the UMBC CSEE Research Day</a>. Congratulations!</td>
     </tr>
     <tr>
