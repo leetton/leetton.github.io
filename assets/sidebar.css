@@ -1,0 +1,116 @@
+/* Compact faculty profile, modeled on the established academic-page layout. */
+.sidebar .portrait {
+  aspect-ratio: 4 / 5;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px #dce2e4;
+  margin: .25rem auto 1.25rem;
+  object-position: 50% 18%;
+  width: min(185px, 100%);
+}
+
+.sidebar h1 {
+  font-family: "Source Sans 3", Arial, sans-serif;
+  font-size: 1.12rem;
+  letter-spacing: 0;
+  margin: 0 0 .25rem;
+}
+
+.sidebar .role,
+.sidebar p {
+  margin: .25rem 0;
+}
+
+.sidebar p + p {
+  margin-top: 1rem;
+}
+
+.sidebar .faculty-links {
+  line-height: 1.45;
+}
+
+.profile-contact {
+  border-top: 1px solid #dce2e4;
+  display: grid;
+  gap: .45rem;
+  margin-top: 1.25rem;
+  padding-top: .9rem;
+}
+
+.profile-contact p,
+.profile-contact a {
+  align-items: center;
+  color: #4f5b5f;
+  display: flex;
+  gap: .55rem;
+  line-height: 1.3;
+  margin: 0;
+}
+
+.profile-contact a:hover { color: #006b8f; }
+
+.contact-icon {
+  align-items: center;
+  color: #58656a;
+  display: inline-flex;
+  flex: 0 0 1.35rem;
+  font-size: .95rem;
+  justify-content: center;
+  height: 1.35rem;
+  width: 1.35rem;
+}
+
+.address-icon { font-size: 1rem; }
+.email-icon { font-size: 1.3rem; }
+
+.identity-icon {
+  align-items: center;
+  color: #fff;
+  display: inline-flex;
+  flex: 0 0 1.35rem;
+  font: 700 .68rem/1 "Source Sans 3", Arial, sans-serif;
+  height: 1.35rem;
+  justify-content: center;
+  text-align: center;
+  width: 1.35rem;
+}
+
+.scholar-icon { font-size: 1.15rem; }
+.orcid-icon { background: #a6ce39; border-radius: 50%; font-size: .58rem; transform: scale(.78); }
+.linkedin-icon { background: #0a78b5; font-size: .68rem; transform: scale(.78); }
+.cv-icon { background: #6f5200; border-radius: 3px; font-size: .53rem; transform: scale(.78); }
+
+/* Keep the faculty profile available while reading longer sections. */
+@media (min-width: 851px) {
+  .page-layout {
+    gap: 3.25rem;
+    grid-template-columns: 285px minmax(0, 1fr);
+  }
+
+  .sidebar {
+    align-self: start;
+    max-height: calc(100vh - 6.75rem);
+    overflow-y: auto;
+    padding-right: .4rem;
+    position: sticky;
+    top: 5.5rem;
+  }
+}
+
+@media (max-width: 850px) {
+  .sidebar {
+    max-height: none;
+    overflow: visible;
+    position: static;
+  }
+
+  .sidebar .portrait {
+    margin: 0;
+    width: 150px;
+  }
+}
+
+@media (max-width: 650px) {
+  .sidebar .portrait { width: 110px; }
+  .profile-contact { margin-top: .8rem; }
+}

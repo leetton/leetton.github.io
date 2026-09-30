@@ -1,0 +1,84 @@
+/* UMBC-inspired academic palette: black, gold, and warm neutrals. */
+:root {
+  --ink: #1f1f1f;
+  --blue: #6f5200;
+  --blue-dark: #423100;
+  --muted: #5b5750;
+  --rule: #ddd8cd;
+  --paper: #fffefa;
+  --wash: #f7f4ed;
+  --amber: #ffb81c;
+}
+
+body { background: var(--paper); }
+body.home-page #people,
+body.home-page #teaching,
+body.home-page #service { display: none; }
+a { color: #6f5200; }
+a:hover { color: #3d2e00; }
+
+.masthead { background: #161616; border-bottom: 4px solid #ffb81c; }
+.site-name, .masthead nav a { color: #fff; }
+.masthead nav a:hover { color: #ffcf5c; text-decoration: none; }
+.nav-toggle { background: #161616; border-color: #81796b; color: #fff; }
+
+.content-section h2, .content-section h3, .sidebar h1, .sidebar strong { color: #242424; }
+.section-intro, footer { color: #615c54; }
+.sidebar, .profile-contact p, .profile-contact a { color: #5c5750; }
+.profile-contact { border-color: #ddd8cd; }
+.profile-contact a:hover { color: #6f5200; }
+.contact-icon { color: #6f5200; }
+.linkedin-icon { background: #1769aa; }
+
+.research-lede, .research-copy { color: #292720; }
+.research-copy a { border-bottom-color: #d6b55c; color: #6f5200; }
+.research-copy a:hover { border-bottom-color: #6f5200; }
+.research-copy .research-note { color: #4d4942; }
+.research-copy .openings-note { background: #fff3d4; border-left: 4px solid #ffb81c; color: #2b2924; text-align: justify !important; text-justify: inter-word; }
+
+.highlights-heading + .highlights-carousel { margin-top: 1.1rem; }
+.highlight-slide { background: #f7f4ed; border-top-color: #ffb81c; }
+.single-highlight .acceptance-note, .highlight-slide .venue, .publication-venue { color: #6f5200; }
+.featured-badge { background: #ffb81c; color: #211b0a; }
+.highlight-slide p:not(.venue), .research-areas p:not(.area-number), .research-recognition p { color: #58534b; }
+.carousel-arrow, .carousel-pause, .carousel-dots button { border-color: #bdb4a3; color: #423100; }
+.carousel-dots button.active { background: #6f5200; border-color: #6f5200; }
+
+.publication-card { border-color: #ddd8cd; }
+.featured-publication { background: var(--paper); border: 1px solid #ddd8cd; box-shadow: none; }
+.featured-paper-label { background: #f3ddba; border-radius: 3px; color: #6b4600; display: inline-block; font-size: .76rem; font-weight: 700; letter-spacing: .06em; margin: .15rem 0 .45rem; padding: .2rem .42rem; text-transform: uppercase; }
+.publication-mark.mark-blue { background: #262626; }
+.publication-mark.mark-amber { background: #b17a00; }
+.publication-mark.mark-green { background: #65521b; }
+.publication-mark.mark-slate { background: #5a554a; }
+.publication-card .authors { color: #5b5750; }
+.publication-links a { border-bottom-color: #d6b55c; }
+.news-more { border-color: #a89567; color: #423100; }
+.news-more:hover { background: #fff3d4; }
+
+.news-filters button { border-color: #cfc6b6; color: #4e493f; }
+.news-filters button:hover, .news-filters button.active { background: #262626; border-color: #262626; color: #ffcf5c; }
+.tag-publication { background: #f6e3a7; color: #5a4100; }
+.tag-award { background: #f3ddba; color: #6b4600; }
+.tag-funding { background: #f3dede; color: #7a1f26; }
+.tag-service { background: #dce8ef; color: #244e67; }
+.tag-talk { background: #dcefe9; color: #175f54; }
+.tag-lab { background: #ebe2f1; color: #5d3b6c; }
+.news-title { font-style: italic; font-weight: 400; }
+.news-award { background: #ffdf8a; border-radius: 3px; color: #513900; display: inline-block; font-size: .8em; font-style: normal; font-weight: 700; line-height: 1.2; padding: .18rem .35rem; }
+
+/* Keep long-form academic copy aligned cleanly along both margins. */
+.sidebar p,
+main p,
+main li,
+.subpage-main p,
+.subpage-main li,
+#news-archive li > span {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+@media (max-width: 650px) {
+  .masthead nav { background: #161616; border-bottom-color: #ffb81c; }
+}

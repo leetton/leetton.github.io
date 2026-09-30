@@ -1,0 +1,12 @@
+.news-filters { display: flex; flex-wrap: wrap; gap: .45rem; margin: 1.35rem 0 1.1rem; }
+.news-filters button { appearance: none; border: 1px solid #cbd8dc; border-radius: 999px; background: #fff; color: #36535e; cursor: pointer; font: 600 .82rem/1 "Source Sans 3", Arial, sans-serif; padding: .48rem .72rem; }
+.news-filters button:hover, .news-filters button.active { background: #006b8f; border-color: #006b8f; color: #fff; }
+.news-archive li { grid-template-columns: 92px 1fr; padding: .82rem 0; }
+.news-tag { display: inline-block; vertical-align: baseline; border-radius: 3px; font-size: .69rem; font-weight: 700; letter-spacing: .035em; line-height: 1; margin: 0 .55rem .2rem 0; padding: .32rem .42rem; text-transform: uppercase; white-space: nowrap; }
+.tag-publication { background: #deeff6; color: #075978; }
+.tag-award { background: #fff0d2; color: #825300; }
+.tag-funding { background: #e4f3e7; color: #23633a; }
+.tag-service { background: #eee9f7; color: #55408d; }
+.tag-talk { background: #fae8e8; color: #8a3b3b; }
+.tag-lab { background: #e8ecee; color: #4d5c61; }
+@media (max-width:650px) { .news-archive li { grid-template-columns: 80px 1fr; } .news-filters { gap: .38rem; } }
