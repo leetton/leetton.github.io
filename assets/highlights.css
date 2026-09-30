@@ -57,3 +57,4 @@
 .carousel-dots button.active { background: #0b7d9d; border-color: #0b7d9d; }
 @media(max-width:800px){.research-areas{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.highlights-heading{align-items:start;flex-direction:column;gap:0}.carousel-status{margin-bottom:0!important}.highlight-slide,.single-highlight{grid-template-columns:1fr;gap:1rem;min-height:0}.highlight-slide > img,.highlight-slide > video,.single-highlight > video{height:220px}.highlight-slide h3{font-size:1.4rem}.carousel-controls{flex-wrap:wrap}.name-context{display:block;margin:.25rem 0 0}.research-areas{grid-template-columns:1fr}.research-areas article{min-height:0}.research-lede{font-size:1.08rem}.research-copy{font-size:1rem}}
+#highlights h2,#news h2,#publications h2{font:700 clamp(1.45rem,2.5vw,2.1rem)/1 var(--serif);letter-spacing:-.04em}
