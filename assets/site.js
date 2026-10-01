@@ -6,7 +6,7 @@ favicon.href = 'assets/images/favicon.ico';
 document.querySelectorAll('.masthead .site-name').forEach(siteName => {
   if (siteName.nextElementSibling?.classList.contains('lab-wordmark')) return;
   siteName.classList.add('with-lab-wordmark');
-  siteName.insertAdjacentHTML('afterend', '<a class="lab-wordmark" href="current-members.html" aria-label="Future Sensing and Interaction Lab"><img src="assets/images/fsi-lab-monogram-umbc.png" alt="FSI Lab"></a>');
+  siteName.insertAdjacentHTML('afterend', '<a class="lab-wordmark" href="current-members.html" aria-label="Future Sensing and Interaction Lab"><img src="assets/images/fsi-lab-monogram-header.png" alt="FSI Lab"></a>');
 });
 
 if (![...document.querySelectorAll('link[rel="stylesheet"]')].some(link => link.href.includes('fsi-team.css'))) {
