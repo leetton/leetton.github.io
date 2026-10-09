@@ -2,12 +2,17 @@ window.newsItems.unshift(
   {
     date: '10/2026',
     category: 'funding',
-    html: 'Received <a href="https://research.umbc.edu/office-of-technology-development/faculty-entrepreneurship-accelerator-fund-feat/">UMBC Faculty Entrepreneurship Accelerator Fund (FAST) funding</a>.'
+    html: 'Received <a href="https://research.umbc.edu/office-of-technology-development/faculty-entrepreneurship-accelerator-fund-feat/">UMBC Faculty Entrepreneurship Accelerator Fund (FAST) funding</a>. Thanks to the Office of Institutional Advancement (OIA) and the Office of Research and Creative Achievement (ORCA)!'
   },
   {
     date: '9/2026',
     category: 'talk',
     html: 'Interviewed by Lalitha Vinjamuri for <a href="https://www.linkedin.com/pulse/nextgen-talks-episode-3-smartphones-smart-health-future-vinjamuri-p4mpe/">NextGen Talks: Smartphones, Smart Health, and the Future</a>.'
+  },
+  {
+    date: '10/2026',
+    category: 'talk',
+    html: 'Gave a guest lecture, <em class="news-title">Acoustic Sensing for Hemodynamic Health</em>, at the Columbia University Research Seminar. Thanks to Dr. Xia Zhou for the invitation!'
   },
   {
     date: '7/2026',
