@@ -1,5 +1,15 @@
 window.newsItems.unshift(
   {
+    date: '10/2026',
+    category: 'funding',
+    html: 'Received <a href="https://research.umbc.edu/office-of-technology-development/faculty-entrepreneurship-accelerator-fund-feat/">UMBC Faculty Entrepreneurship Accelerator Fund (FAST) funding</a>.'
+  },
+  {
+    date: '9/2026',
+    category: 'talk',
+    html: 'Interviewed by Lalitha Vinjamuri for <a href="https://www.linkedin.com/pulse/nextgen-talks-episode-3-smartphones-smart-health-future-vinjamuri-p4mpe/">NextGen Talks: Smartphones, Smart Health, and the Future</a>.'
+  },
+  {
     date: '7/2026',
     category: 'service',
     html: "Invited to serve on the Technical Program Committee for <a href='https://www.sigmobile.org/mobicom/2027/'>MobiCom '27</a>. We welcome your submissions!"
