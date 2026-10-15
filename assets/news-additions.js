@@ -1,6 +1,11 @@
 window.newsItems.unshift(
   {
     date: '10/2026',
+    category: 'award',
+    html: 'Exciting news! Our paper <em class="news-title">Acoustoscillogram: Unlocking Arterial Health Insights via Acoustic Sensing with Low-cost Wired Earphones</em> received the <span class="news-award">ACM IMWUT Distinguished Paper Award</span>! Congratulations to all team members. Stay tuned for more exciting affordable and accessible hemodynamic health monitoring!'
+  },
+  {
+    date: '10/2026',
     category: 'funding',
     html: 'Received <a href="https://research.umbc.edu/office-of-technology-development/faculty-entrepreneurship-accelerator-fund-feat/">UMBC Faculty Entrepreneurship Accelerator Fund (FAST) funding</a>. Thanks to the Office of Institutional Advancement (OIA) and the Office of Research and Creative Achievement (ORCA)!'
   },
